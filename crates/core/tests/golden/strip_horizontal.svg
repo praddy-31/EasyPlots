@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'Source Sans 3'" fill="#262626">
+<desc>strip garden.csv x=soil y=mass mean horizontal note=&quot;line = mean&quot;@tr xlim=0:3.2 xlabel=&quot;Mass (kg), notched Izod&quot; --theme=light</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="47.75" y="7.97" width="377.25" height="246.43"/></clipPath>
+<path d="M47.75 7.97V254.4M165.64 7.97V254.4M283.53 7.97V254.4M401.42 7.97V254.4M47.75 187.19H425M47.75 75.18H425" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot0)">
+<g transform="matrix(0 1 1 0 0 0)">
+<path d="M39.89 300.25H110.46" fill="none" stroke="#262626" stroke-width="2.7"/>
+<path d="M151.91 287.7H222.48" fill="none" stroke="#262626" stroke-width="2.7"/>
+</g>
+<path d="M351.51 75.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM363.29 75.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM244.22 75.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM384.51 79.09a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM380.98 74.29a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM219.47 75.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM265.45 75.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM378.62 79.98a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM375.08 75.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM80.36 75.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM228.9 75.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#0072b2" stroke="#ffffff" stroke-width="0.66"/>
+<path d="M215.93 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM86.25 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM270.16 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM331.46 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM379.8 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM238.33 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM300.81 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM284.31 193.04a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM259.55 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM370.37 190.84a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM283.13 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM318.5 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM365.65 187.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#e69f00" stroke="#ffffff" stroke-width="0.66"/>
+</g>
+<text x="419" y="19.91" font-size="9" text-anchor="end">line = mean</text>
+<path d="M47.75 7.97V254.4H425" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M47.75 254.4v3.5M165.64 254.4v3.5M283.53 254.4v3.5M401.42 254.4v3.5M47.75 187.19h-3.5M47.75 75.18h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="47.75" y="267.34" font-size="9" text-anchor="middle">0</text>
+<text x="165.64" y="267.34" font-size="9" text-anchor="middle">1</text>
+<text x="283.53" y="267.34" font-size="9" text-anchor="middle">2</text>
+<text x="401.42" y="267.34" font-size="9" text-anchor="middle">3</text>
+<text x="40.75" y="190.16" font-size="9" text-anchor="end">Clay</text>
+<text x="40.75" y="78.15" font-size="9" text-anchor="end">Loam</text>
+<text x="236.37" y="279.8" font-size="10" text-anchor="middle">Mass (kg), notched Izod</text>
+<g transform="translate(11.93 131.19) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">soil</text></g>
+</svg>

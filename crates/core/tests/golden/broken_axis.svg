@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>bar outlier.csv x=sample y=value ybreak=20:460 values</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="36.36" y="7.96" width="388.63" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M48.9 258.8H99.05V233.22H48.9ZM111.58 258.8H161.73V226.83H111.58ZM174.27 258.8H224.41V235.36H174.27ZM236.95 258.8H287.1V166.54H236.95ZM299.63 258.8H349.78V228.96H299.63ZM362.32 258.8H412.46V134.57H362.32Z" fill="#0072b2" stroke="none"/>
+</g>
+<rect x="35.36" y="209.17" width="390.63" height="7" fill="#ffffff"/>
+<g fill="#000000" stroke="#ffffff" stroke-width="1.78" stroke-linejoin="round" paint-order="stroke">
+<text x="73.97" y="230.22" font-size="8.1" text-anchor="middle">12</text>
+<text x="136.66" y="223.83" font-size="8.1" text-anchor="middle">15</text>
+<text x="199.34" y="232.36" font-size="8.1" text-anchor="middle">11</text>
+<text x="262.02" y="163.54" font-size="8.1" text-anchor="middle">480</text>
+<text x="324.71" y="225.96" font-size="8.1" text-anchor="middle">14</text>
+<text x="387.39" y="131.57" font-size="8.1" text-anchor="middle">495</text>
+</g>
+<rect x="36.36" y="7.96" width="388.63" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M73.97 258.8v-3.5M73.97 7.96v3.5M136.66 258.8v-3.5M136.66 7.96v3.5M199.34 258.8v-3.5M199.34 7.96v3.5M262.02 258.8v-3.5M262.02 7.96v3.5M324.71 258.8v-3.5M324.71 7.96v3.5M387.39 258.8v-3.5M387.39 7.96v3.5M36.36 258.8h3.5M425 258.8h-3.5M36.36 216.17h3.5M425 216.17h-3.5M36.36 166.54h3.5M425 166.54h-3.5M36.36 123.91h3.5M425 123.91h-3.5M36.36 81.28h3.5M425 81.28h-3.5M36.36 38.65h3.5M425 38.65h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M36.36 248.14h2M425 248.14h-2M36.36 237.49h2M425 237.49h-2M36.36 226.83h2M425 226.83h-2M36.36 198.51h2M425 198.51h-2M36.36 187.86h2M425 187.86h-2M36.36 177.2h2M425 177.2h-2M36.36 155.88h2M425 155.88h-2M36.36 145.23h2M425 145.23h-2M36.36 134.57h2M425 134.57h-2M36.36 113.25h2M425 113.25h-2M36.36 102.6h2M425 102.6h-2M36.36 91.94h2M425 91.94h-2M36.36 70.62h2M425 70.62h-2M36.36 59.97h2M425 59.97h-2M36.36 49.31h2M425 49.31h-2M36.36 27.99h2M425 27.99h-2M36.36 17.34h2M425 17.34h-2M36.36 209.17h2M425 209.17h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<path d="M36.36 209.67V215.67" stroke="#ffffff" stroke-width="2.3"/>
+<path d="M32.36 210.77L40.36 207.57M32.36 217.77L40.36 214.57" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M425 209.67V215.67" stroke="#ffffff" stroke-width="2.3"/>
+<path d="M421 210.77L429 207.57M421 217.77L429 214.57" fill="none" stroke="#000000" stroke-width="0.8"/>
+<text x="73.97" y="268.21" font-size="9" text-anchor="middle">A</text>
+<text x="136.66" y="268.21" font-size="9" text-anchor="middle">B</text>
+<text x="199.34" y="268.21" font-size="9" text-anchor="middle">C</text>
+<text x="262.02" y="268.21" font-size="9" text-anchor="middle">D</text>
+<text x="324.71" y="268.21" font-size="9" text-anchor="middle">E</text>
+<text x="387.39" y="268.21" font-size="9" text-anchor="middle">F</text>
+<text x="32.86" y="261.76" font-size="9" text-anchor="end">0</text>
+<text x="32.86" y="219.13" font-size="9" text-anchor="end">20</text>
+<text x="32.86" y="169.5" font-size="9" text-anchor="end">480</text>
+<text x="32.86" y="126.87" font-size="9" text-anchor="end">500</text>
+<text x="32.86" y="84.24" font-size="9" text-anchor="end">520</text>
+<text x="32.86" y="41.61" font-size="9" text-anchor="end">540</text>
+<text x="230.68" y="281.1" font-size="10" text-anchor="middle">sample</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">value</text></g>
+</svg>

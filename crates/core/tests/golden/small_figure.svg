@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226.77pt" height="170.08pt" viewBox="0 0 226.77 170.08" font-family="'STIX Two Text'" fill="#000000">
+<desc>scatter tabs.csv x=temp y=pressure --size=8x6cm</desc>
+<rect width="226.77" height="170.08" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="43.03" y="7.96" width="176.75" height="132.92"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M49.06 14a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM87.28 19.62a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM123.31 29.81a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM155.07 44.09a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM180.78 60.97a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM199.02 79.21a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM208.79 96.84a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM209.74 112.34a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM201.9 124.5a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM186.01 132.1a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM163.19 134.84a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM135.06 132.56a2 2 0 1 0 4 0a2 2 0 1 0 -4 0Z" fill="#0072b2" stroke="none"/>
+</g>
+<rect x="43.03" y="7.96" width="176.75" height="132.92" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M51.06 140.88v-3.5M51.06 7.96v3.5M122.54 140.88v-3.5M122.54 7.96v3.5M194.01 140.88v-3.5M194.01 7.96v3.5M43.03 105.2h3.5M219.77 105.2h-3.5M43.03 29.2h3.5M219.77 29.2h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M65.35 140.88v-2M65.35 7.96v2M79.65 140.88v-2M79.65 7.96v2M93.94 140.88v-2M93.94 7.96v2M108.24 140.88v-2M108.24 7.96v2M136.83 140.88v-2M136.83 7.96v2M151.13 140.88v-2M151.13 7.96v2M165.42 140.88v-2M165.42 7.96v2M179.72 140.88v-2M179.72 7.96v2M208.31 140.88v-2M208.31 7.96v2M43.03 135.6h2M219.77 135.6h-2M43.03 120.4h2M219.77 120.4h-2M43.03 90h2M219.77 90h-2M43.03 74.8h2M219.77 74.8h-2M43.03 59.6h2M219.77 59.6h-2M43.03 44.4h2M219.77 44.4h-2M43.03 14h2M219.77 14h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="51.06" y="150.29" font-size="9" text-anchor="middle">20.0</text>
+<text x="122.54" y="150.29" font-size="9" text-anchor="middle">22.5</text>
+<text x="194.01" y="150.29" font-size="9" text-anchor="middle">25.0</text>
+<text x="39.53" y="108.16" font-size="9" text-anchor="end">101.0</text>
+<text x="39.53" y="32.16" font-size="9" text-anchor="end">101.5</text>
+<text x="131.4" y="163.17" font-size="10" text-anchor="middle">temp</text>
+<g transform="translate(11.9 74.42) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">pressure</text></g>
+</svg>

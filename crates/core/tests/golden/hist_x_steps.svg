@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>hist samples.csv x=height xlim=155:185:5 ylim=::2</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="31.91" y="7.96" width="388.41" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M29.32 258.8H69.94V242.88H29.32ZM69.94 258.8H110.56V179.17H69.94ZM110.56 258.8H151.18V163.24H110.56ZM151.18 258.8H191.8V195.1H151.18ZM191.8 258.8H232.43V35.83H191.8ZM232.43 258.8H273.05V19.9H232.43ZM273.05 258.8H313.67V179.17H273.05ZM313.67 258.8H354.29V115.46H313.67ZM638.63 258.8H679.26V242.88H638.63Z" fill="#0072b2" stroke="#ffffff" stroke-width="0.4"/>
+</g>
+<rect x="31.91" y="7.96" width="388.41" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M31.91 258.8v-3.5M31.91 7.96v3.5M96.64 258.8v-3.5M96.64 7.96v3.5M161.38 258.8v-3.5M161.38 7.96v3.5M226.11 258.8v-3.5M226.11 7.96v3.5M290.85 258.8v-3.5M290.85 7.96v3.5M355.58 258.8v-3.5M355.58 7.96v3.5M420.32 258.8v-3.5M420.32 7.96v3.5M31.91 258.8h3.5M420.32 258.8h-3.5M31.91 226.95h3.5M420.32 226.95h-3.5M31.91 195.1h3.5M420.32 195.1h-3.5M31.91 163.24h3.5M420.32 163.24h-3.5M31.91 131.39h3.5M420.32 131.39h-3.5M31.91 99.53h3.5M420.32 99.53h-3.5M31.91 67.68h3.5M420.32 67.68h-3.5M31.91 35.83h3.5M420.32 35.83h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M44.86 258.8v-2M44.86 7.96v2M57.8 258.8v-2M57.8 7.96v2M70.75 258.8v-2M70.75 7.96v2M83.7 258.8v-2M83.7 7.96v2M109.59 258.8v-2M109.59 7.96v2M122.54 258.8v-2M122.54 7.96v2M135.49 258.8v-2M135.49 7.96v2M148.43 258.8v-2M148.43 7.96v2M174.33 258.8v-2M174.33 7.96v2M187.27 258.8v-2M187.27 7.96v2M200.22 258.8v-2M200.22 7.96v2M213.17 258.8v-2M213.17 7.96v2M239.06 258.8v-2M239.06 7.96v2M252.01 258.8v-2M252.01 7.96v2M264.95 258.8v-2M264.95 7.96v2M277.9 258.8v-2M277.9 7.96v2M303.8 258.8v-2M303.8 7.96v2M316.74 258.8v-2M316.74 7.96v2M329.69 258.8v-2M329.69 7.96v2M342.64 258.8v-2M342.64 7.96v2M368.53 258.8v-2M368.53 7.96v2M381.48 258.8v-2M381.48 7.96v2M394.42 258.8v-2M394.42 7.96v2M407.37 258.8v-2M407.37 7.96v2M31.91 250.84h2M420.32 250.84h-2M31.91 242.88h2M420.32 242.88h-2M31.91 234.91h2M420.32 234.91h-2M31.91 218.99h2M420.32 218.99h-2M31.91 211.02h2M420.32 211.02h-2M31.91 203.06h2M420.32 203.06h-2M31.91 187.13h2M420.32 187.13h-2M31.91 179.17h2M420.32 179.17h-2M31.91 171.21h2M420.32 171.21h-2M31.91 155.28h2M420.32 155.28h-2M31.91 147.31h2M420.32 147.31h-2M31.91 139.35h2M420.32 139.35h-2M31.91 123.42h2M420.32 123.42h-2M31.91 115.46h2M420.32 115.46h-2M31.91 107.5h2M420.32 107.5h-2M31.91 91.57h2M420.32 91.57h-2M31.91 83.61h2M420.32 83.61h-2M31.91 75.64h2M420.32 75.64h-2M31.91 59.72h2M420.32 59.72h-2M31.91 51.75h2M420.32 51.75h-2M31.91 43.79h2M420.32 43.79h-2M31.91 27.86h2M420.32 27.86h-2M31.91 19.9h2M420.32 19.9h-2M31.91 11.94h2M420.32 11.94h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="31.91" y="268.21" font-size="9" text-anchor="middle">155</text>
+<text x="96.64" y="268.21" font-size="9" text-anchor="middle">160</text>
+<text x="161.38" y="268.21" font-size="9" text-anchor="middle">165</text>
+<text x="226.11" y="268.21" font-size="9" text-anchor="middle">170</text>
+<text x="290.85" y="268.21" font-size="9" text-anchor="middle">175</text>
+<text x="355.58" y="268.21" font-size="9" text-anchor="middle">180</text>
+<text x="420.32" y="268.21" font-size="9" text-anchor="middle">185</text>
+<text x="28.41" y="261.76" font-size="9" text-anchor="end">0</text>
+<text x="28.41" y="229.9" font-size="9" text-anchor="end">2</text>
+<text x="28.41" y="198.05" font-size="9" text-anchor="end">4</text>
+<text x="28.41" y="166.2" font-size="9" text-anchor="end">6</text>
+<text x="28.41" y="134.34" font-size="9" text-anchor="end">8</text>
+<text x="28.41" y="102.49" font-size="9" text-anchor="end">10</text>
+<text x="28.41" y="70.64" font-size="9" text-anchor="end">12</text>
+<text x="28.41" y="38.78" font-size="9" text-anchor="end">14</text>
+<text x="226.11" y="281.1" font-size="10" text-anchor="middle">height</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">Count</text></g>
+</svg>

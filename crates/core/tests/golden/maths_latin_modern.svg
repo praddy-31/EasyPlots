@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'Latin Modern Roman'" fill="#000000">
+<desc>line simple.csv x=time y=temp xlabel=&quot;$t$ (s)&quot; ylabel=&quot;$T_{\mathrm{in}}$ (°C)&quot; title=&quot;Heating at $\alpha = 0.5\,\mathrm{K/s}$, $\Delta T \approx 4$&quot; --font=&quot;Latin Modern&quot;</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="39" y="24.57" width="386" height="233.71"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M39 189.16L48.9 163.89L58.8 140.08L68.69 119.08L78.59 102.09L88.49 90.04L98.39 83.57L108.28 82.95L118.18 88.13L128.08 98.64L137.98 113.72L147.87 132.31L157.77 153.14L167.67 174.81L177.57 195.85L187.46 214.82L197.36 230.43L207.26 241.6L217.15 247.51L227.05 247.66L236.95 241.98L246.85 230.64L256.74 214.25L266.64 193.71L276.54 170.2L286.44 145.05L296.33 119.69L306.23 95.61L316.13 74.16L326.03 56.59L335.92 43.83L345.82 36.6L355.72 35.2L365.62 39.62L375.51 49.46L385.41 63.98L395.31 82.18L405.21 102.81L415.1 124.45L425 145.65" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<rect x="39" y="24.57" width="386" height="233.71" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M39 258.29v-3.5M39 24.57v3.5M137.98 258.29v-3.5M137.98 24.57v3.5M236.95 258.29v-3.5M236.95 24.57v3.5M335.92 258.29v-3.5M335.92 24.57v3.5M39 236.4h3.5M425 236.4h-3.5M39 189.16h3.5M425 189.16h-3.5M39 141.91h3.5M425 141.91h-3.5M39 94.67h3.5M425 94.67h-3.5M39 47.42h3.5M425 47.42h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M58.8 258.29v-2M58.8 24.57v2M78.59 258.29v-2M78.59 24.57v2M98.39 258.29v-2M98.39 24.57v2M118.18 258.29v-2M118.18 24.57v2M157.77 258.29v-2M157.77 24.57v2M177.57 258.29v-2M177.57 24.57v2M197.36 258.29v-2M197.36 24.57v2M217.15 258.29v-2M217.15 24.57v2M256.74 258.29v-2M256.74 24.57v2M276.54 258.29v-2M276.54 24.57v2M296.33 258.29v-2M296.33 24.57v2M316.13 258.29v-2M316.13 24.57v2M355.72 258.29v-2M355.72 24.57v2M375.51 258.29v-2M375.51 24.57v2M395.31 258.29v-2M395.31 24.57v2M415.1 258.29v-2M415.1 24.57v2M39 255.3h2M425 255.3h-2M39 245.85h2M425 245.85h-2M39 226.95h2M425 226.95h-2M39 217.5h2M425 217.5h-2M39 208.05h2M425 208.05h-2M39 198.61h2M425 198.61h-2M39 179.71h2M425 179.71h-2M39 170.26h2M425 170.26h-2M39 160.81h2M425 160.81h-2M39 151.36h2M425 151.36h-2M39 132.46h2M425 132.46h-2M39 123.01h2M425 123.01h-2M39 113.57h2M425 113.57h-2M39 104.12h2M425 104.12h-2M39 85.22h2M425 85.22h-2M39 75.77h2M425 75.77h-2M39 66.32h2M425 66.32h-2M39 56.87h2M425 56.87h-2M39 37.97h2M425 37.97h-2M39 28.53h2M425 28.53h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="39" y="267.93" font-size="9" text-anchor="middle">0</text>
+<text x="137.98" y="267.93" font-size="9" text-anchor="middle">5</text>
+<text x="236.95" y="267.93" font-size="9" text-anchor="middle">10</text>
+<text x="335.92" y="267.93" font-size="9" text-anchor="middle">15</text>
+<text x="35.5" y="239.47" font-size="9" text-anchor="end">17.5</text>
+<text x="35.5" y="192.23" font-size="9" text-anchor="end">20.0</text>
+<text x="35.5" y="144.99" font-size="9" text-anchor="end">22.5</text>
+<text x="35.5" y="97.74" font-size="9" text-anchor="end">25.0</text>
+<text x="35.5" y="50.5" font-size="9" text-anchor="end">27.5</text>
+<text x="232" y="280.68" font-size="10" text-anchor="middle"><tspan font-style="italic">t</tspan><tspan> (s)</tspan></text>
+<g transform="translate(12.17 141.43) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle"><tspan font-style="italic">T</tspan><tspan dy="2" font-size="7">in</tspan><tspan dy="-2"> (°C)</tspan></text></g>
+<text x="154.46" y="12.51" font-size="11" text-anchor="start"><tspan x="154.46">Heating at </tspan><tspan x="209.15" font-style="italic" font-family="'STIX Two Text'">α</tspan><tspan x="215.33"> = 0.5</tspan><tspan x="245.27" font-family="'STIX Two Text'"> </tspan><tspan x="246.65">K/s, Δ</tspan><tspan x="280.92" font-style="italic">T</tspan><tspan x="288.8"> </tspan><tspan x="292.46" font-family="'STIX Two Math'">≈</tspan><tspan x="300.38"> 4</tspan></text>
+</svg>

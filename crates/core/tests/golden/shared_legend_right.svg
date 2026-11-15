@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504pt" height="187.2pt" viewBox="0 0 504 187.2" font-family="'STIX Two Text'" fill="#000000">
+<desc>line run_a.csv x=t y=temp label=&quot;Run A&quot; + run_b.csv x=t y=temp label=&quot;Run B&quot; ; scatter run_a.csv x=t y=temp label=&quot;Run A&quot; + run_b.csv x=t y=temp label=&quot;Run B&quot; --legend=right --size=7x2.6in</desc>
+<rect width="504" height="187.2" fill="#ffffff"/>
+<path d="M441.42 85.1L461.42 85.1" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="466.42" y="88.39" font-size="10" text-anchor="start">Run A</text>
+<path d="M441.42 98.6L461.42 98.6" fill="none" stroke="#e69f00" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+<text x="466.42" y="101.89" font-size="10" text-anchor="start">Run B</text>
+<clipPath id="plot0"><rect x="31.91" y="7.96" width="179.3" height="150.05"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M31.91 147.6L39.38 133.49L46.85 127.52L54.32 130.34L61.79 134.53L69.26 131.39L76.73 118.97L84.21 103.86L91.68 95.11L99.15 95.92L106.62 100.72L114.09 100.26L121.56 90.12L129.03 74.79L136.5 63.52L143.97 61.85L151.44 66.46L158.91 68.28L166.39 60.81L173.86 46.07L181.33 32.78L188.8 28.32L196.27 31.96L203.74 35.5L211.21 30.88" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M31.91 147.6L39.38 146.66L46.85 150.93L54.32 151.18L61.79 141.86L69.26 126.2L76.73 113.3L84.21 109.68L91.68 113.37L99.15 115.63L106.62 109.08L114.09 94.43L121.56 79.8L129.03 73.35L136.5 75.67L143.97 79.32L151.44 75.61L158.91 62.64L166.39 47.02L173.86 37.77L181.33 38.09L188.8 42.36L196.27 41.33L203.74 30.63L211.21 14.78" fill="none" stroke="#e69f00" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+</g>
+<rect x="31.91" y="7.96" width="179.3" height="150.05" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M31.91 158v-3.5M31.91 7.96v3.5M106.62 158v-3.5M106.62 7.96v3.5M181.33 158v-3.5M181.33 7.96v3.5M31.91 147.6h3.5M211.21 147.6h-3.5M31.91 95h3.5M211.21 95h-3.5M31.91 42.39h3.5M211.21 42.39h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M46.85 158v-2M46.85 7.96v2M61.79 158v-2M61.79 7.96v2M76.73 158v-2M76.73 7.96v2M91.68 158v-2M91.68 7.96v2M121.56 158v-2M121.56 7.96v2M136.5 158v-2M136.5 7.96v2M151.44 158v-2M151.44 7.96v2M166.39 158v-2M166.39 7.96v2M196.27 158v-2M196.27 7.96v2M211.21 158v-2M211.21 7.96v2M31.91 137.08h2M211.21 137.08h-2M31.91 126.56h2M211.21 126.56h-2M31.91 116.04h2M211.21 116.04h-2M31.91 105.52h2M211.21 105.52h-2M31.91 84.47h2M211.21 84.47h-2M31.91 73.95h2M211.21 73.95h-2M31.91 63.43h2M211.21 63.43h-2M31.91 52.91h2M211.21 52.91h-2M31.91 31.86h2M211.21 31.86h-2M31.91 21.34h2M211.21 21.34h-2M31.91 10.82h2M211.21 10.82h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="31.91" y="167.41" font-size="9" text-anchor="middle">0</text>
+<text x="106.62" y="167.41" font-size="9" text-anchor="middle">10</text>
+<text x="181.33" y="167.41" font-size="9" text-anchor="middle">20</text>
+<text x="28.41" y="150.56" font-size="9" text-anchor="end">20</text>
+<text x="28.41" y="97.95" font-size="9" text-anchor="end">25</text>
+<text x="28.41" y="45.34" font-size="9" text-anchor="end">30</text>
+<text x="121.56" y="180.3" font-size="10" text-anchor="middle">t</text>
+<g transform="translate(11.9 82.98) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">temp</text></g>
+<clipPath id="plot1"><rect x="250.12" y="7.96" width="179.3" height="150.05"/></clipPath>
+<g clip-path="url(#plot1)">
+<path d="M256.27 147.6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM263.06 133.49a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM269.85 127.52a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM276.64 130.34a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM283.44 134.53a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM290.23 131.39a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM297.02 118.97a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM303.81 103.86a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM310.6 95.11a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM317.39 95.92a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM324.19 100.72a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM330.98 100.26a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM337.77 90.12a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM344.56 74.79a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM351.35 63.52a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM358.14 61.85a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM364.94 66.46a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM371.73 68.28a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM378.52 60.81a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM385.31 46.07a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM392.1 32.78a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM398.89 28.32a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM405.69 31.96a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM412.48 35.5a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM419.27 30.88a2 2 0 1 0 4 0a2 2 0 1 0 -4 0Z" fill="#0072b2" stroke="none"/>
+<path d="M256.51 145.84h3.52v3.52h-3.52ZM263.3 144.9h3.52v3.52h-3.52ZM270.09 149.17h3.52v3.52h-3.52ZM276.88 149.42h3.52v3.52h-3.52ZM283.68 140.1h3.52v3.52h-3.52ZM290.47 124.44h3.52v3.52h-3.52ZM297.26 111.54h3.52v3.52h-3.52ZM304.05 107.92h3.52v3.52h-3.52ZM310.84 111.61h3.52v3.52h-3.52ZM317.63 113.87h3.52v3.52h-3.52ZM324.43 107.32h3.52v3.52h-3.52ZM331.22 92.67h3.52v3.52h-3.52ZM338.01 78.04h3.52v3.52h-3.52ZM344.8 71.59h3.52v3.52h-3.52ZM351.59 73.91h3.52v3.52h-3.52ZM358.38 77.56h3.52v3.52h-3.52ZM365.18 73.85h3.52v3.52h-3.52ZM371.97 60.88h3.52v3.52h-3.52ZM378.76 45.26h3.52v3.52h-3.52ZM385.55 36.01h3.52v3.52h-3.52ZM392.34 36.33h3.52v3.52h-3.52ZM399.13 40.6h3.52v3.52h-3.52ZM405.93 39.57h3.52v3.52h-3.52ZM412.72 28.87h3.52v3.52h-3.52ZM419.51 13.02h3.52v3.52h-3.52Z" fill="#e69f00" stroke="none"/>
+</g>
+<rect x="250.12" y="7.96" width="179.3" height="150.05" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M258.27 158v-3.5M258.27 7.96v3.5M326.19 158v-3.5M326.19 7.96v3.5M394.1 158v-3.5M394.1 7.96v3.5M250.12 147.6h3.5M429.42 147.6h-3.5M250.12 95h3.5M429.42 95h-3.5M250.12 42.39h3.5M429.42 42.39h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M271.85 158v-2M271.85 7.96v2M285.44 158v-2M285.44 7.96v2M299.02 158v-2M299.02 7.96v2M312.6 158v-2M312.6 7.96v2M339.77 158v-2M339.77 7.96v2M353.35 158v-2M353.35 7.96v2M366.94 158v-2M366.94 7.96v2M380.52 158v-2M380.52 7.96v2M407.69 158v-2M407.69 7.96v2M421.27 158v-2M421.27 7.96v2M250.12 137.08h2M429.42 137.08h-2M250.12 126.56h2M429.42 126.56h-2M250.12 116.04h2M429.42 116.04h-2M250.12 105.52h2M429.42 105.52h-2M250.12 84.47h2M429.42 84.47h-2M250.12 73.95h2M429.42 73.95h-2M250.12 63.43h2M429.42 63.43h-2M250.12 52.91h2M429.42 52.91h-2M250.12 31.86h2M429.42 31.86h-2M250.12 21.34h2M429.42 21.34h-2M250.12 10.82h2M429.42 10.82h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="258.27" y="167.41" font-size="9" text-anchor="middle">0</text>
+<text x="326.19" y="167.41" font-size="9" text-anchor="middle">10</text>
+<text x="394.1" y="167.41" font-size="9" text-anchor="middle">20</text>
+<text x="246.62" y="150.56" font-size="9" text-anchor="end">20</text>
+<text x="246.62" y="97.95" font-size="9" text-anchor="end">25</text>
+<text x="246.62" y="45.34" font-size="9" text-anchor="end">30</text>
+<text x="339.77" y="180.3" font-size="10" text-anchor="middle">t</text>
+<g transform="translate(230.11 82.98) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">temp</text></g>
+</svg>

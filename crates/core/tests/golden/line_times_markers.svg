@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>line datetimes.csv markers grid=on</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="38.57" y="7.96" width="386.43" height="250.85"/></clipPath>
+<path d="M56.14 7.96V258.8M149.81 7.96V258.8M243.49 7.96V258.8M337.18 7.96V258.8M38.57 247.4H425M38.57 190.07H425M38.57 132.75H425M38.57 75.42H425M38.57 18.1H425" fill="none" stroke="#d9d9d9" stroke-width="0.5"/>
+<g clip-path="url(#plot0)">
+<path d="M56.14 19.36L79.56 26.93L102.97 41.26L126.4 61.09L149.81 85.51L173.24 112.8L196.66 141.35L220.08 169.44L243.49 195.12L266.92 217.02L290.33 233.64L313.75 243.96L337.18 247.4L360.6 243.73L384.01 233.07L407.44 216.33" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M54.14 19.36a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM77.56 26.93a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM100.97 41.26a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM124.4 61.09a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM147.81 85.51a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM171.24 112.8a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM194.66 141.35a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM218.08 169.44a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM241.49 195.12a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM264.92 217.02a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM288.33 233.64a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM311.75 243.96a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM335.18 247.4a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM358.6 243.73a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM382.01 233.07a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM405.44 216.33a2 2 0 1 0 4 0a2 2 0 1 0 -4 0Z" fill="#0072b2" stroke="none"/>
+</g>
+<rect x="38.57" y="7.96" width="386.43" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M56.14 258.8v-3.5M56.14 7.96v3.5M149.81 258.8v-3.5M149.81 7.96v3.5M243.49 258.8v-3.5M243.49 7.96v3.5M337.18 258.8v-3.5M337.18 7.96v3.5M38.57 247.4h3.5M425 247.4h-3.5M38.57 190.07h3.5M425 190.07h-3.5M38.57 132.75h3.5M425 132.75h-3.5M38.57 75.42h3.5M425 75.42h-3.5M38.57 18.1h3.5M425 18.1h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M38.57 235.93h2M425 235.93h-2M38.57 224.47h2M425 224.47h-2M38.57 213h2M425 213h-2M38.57 201.54h2M425 201.54h-2M38.57 178.61h2M425 178.61h-2M38.57 167.14h2M425 167.14h-2M38.57 155.68h2M425 155.68h-2M38.57 144.21h2M425 144.21h-2M38.57 121.28h2M425 121.28h-2M38.57 109.82h2M425 109.82h-2M38.57 98.35h2M425 98.35h-2M38.57 86.89h2M425 86.89h-2M38.57 63.96h2M425 63.96h-2M38.57 52.49h2M425 52.49h-2M38.57 41.03h2M425 41.03h-2M38.57 29.56h2M425 29.56h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="56.14" y="268.21" font-size="9" text-anchor="middle">08:00</text>
+<text x="149.81" y="268.21" font-size="9" text-anchor="middle">09:00</text>
+<text x="243.49" y="268.21" font-size="9" text-anchor="middle">10:00</text>
+<text x="337.18" y="268.21" font-size="9" text-anchor="middle">11:00</text>
+<text x="35.07" y="250.36" font-size="9" text-anchor="end">9.0</text>
+<text x="35.07" y="193.03" font-size="9" text-anchor="end">9.5</text>
+<text x="35.07" y="135.71" font-size="9" text-anchor="end">10.0</text>
+<text x="35.07" y="78.38" font-size="9" text-anchor="end">10.5</text>
+<text x="35.07" y="21.05" font-size="9" text-anchor="end">11.0</text>
+<text x="231.78" y="281.1" font-size="10" text-anchor="middle">timestamp</text>
+<text x="425" y="281.1" font-size="9" text-anchor="end">21 Oct 2026</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">value</text></g>
+</svg>

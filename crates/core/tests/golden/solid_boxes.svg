@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="792pt" height="244.8pt" viewBox="0 0 792 244.8" font-family="'Source Sans 3'" fill="#262626">
+<desc>box garden.csv x=bed y=yield color=red alpha=1 + strip garden.csv x=bed y=yield color=black title=&quot;box alpha=1&quot; ; strip garden.csv x=bed y=depth mean median=label title=&quot;mean (solid), median=label (dashed)&quot; ; scatter trial.csv x=dose y=yield label=&quot;Trial plants&quot; fit=linear title=&quot;label= names the points&quot; --size=11x3.4in --theme=light</desc>
+<rect width="792" height="244.8" fill="#ffffff"/>
+<path d="M537.03 10a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0Z" fill="#0072b2" stroke="none"/>
+<text x="554.43" y="13.3" font-size="10" text-anchor="start">Trial plants</text>
+<path d="M619.49 10L639.49 10" fill="none" stroke="#0072b2" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="5 2.16"/>
+<text x="644.49" y="13.3" font-size="10" text-anchor="start"><tspan x="644.49">yield = 98</tspan><tspan x="683.59" font-family="'STIX Two Text'"> </tspan><tspan x="686.09">−</tspan><tspan x="691.06" font-family="'STIX Two Text'"> </tspan><tspan x="693.56">18.4</tspan><tspan x="710.96" font-family="'STIX Two Text'"> </tspan><tspan x="713.46">·</tspan><tspan x="715.95" font-family="'STIX Two Text'"> </tspan><tspan x="718.45">dose (</tspan><tspan x="743.6" font-style="italic">R</tspan><tspan x="749.15" dy="-3.8" font-size="7">2</tspan><tspan x="752.63" dy="3.8"> = 0.976)</tspan></text>
+<clipPath id="plot0"><rect x="35.45" y="42.97" width="221.55" height="168.23"/></clipPath>
+<path d="M76.99 42.97V211.2M146.22 42.97V211.2M215.46 42.97V211.2M35.45 145.99H257M35.45 61.96H257" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot0)">
+<path d="M56.22 88.43H97.76V60.28H56.22ZM125.45 156.81H166.99V138.53H125.45ZM194.69 190.74H236.23V153.34H194.69Z" fill="#d62728" fill-opacity="1" stroke="#d62728" stroke-width="1.2"/>
+<path d="M76.99 60.28V50.62M66.6 50.62H87.37M76.99 88.43V91.79M66.6 91.79H87.37M146.22 138.53V130.03M135.84 130.03H156.61M146.22 156.81V173.3M135.84 173.3H156.61M215.46 153.34V118.68M205.07 118.68H225.84M215.46 190.74V203.55M205.07 203.55H225.84" fill="none" stroke="#d62728" stroke-width="1.2"/>
+<path d="M56.22 79.61H97.76M125.45 147.88H166.99M194.69 177.92H236.23" fill="none" stroke="#ffffff" stroke-width="2.4"/>
+<path d="M75.31 154.82a1.68 1.68 0 1 0 3.36 0a1.68 1.68 0 1 0 -3.36 0ZM144.54 74.15a1.68 1.68 0 1 0 3.36 0a1.68 1.68 0 1 0 -3.36 0Z" fill="none" stroke="#d62728" stroke-width="0.96"/>
+<path d="M80.13 88.43a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM74.23 87.59a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM74.23 67a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM70 91.79a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM74.23 50.62a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM74.23 60.28a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM74.23 79.61a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM80.19 50.62a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM74.23 154.82a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#000000" stroke="#ffffff" stroke-width="0.66"/>
+<path d="M143.46 141.37a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM143.46 74.15a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM145.85 146.83a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM140.27 148.93a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM148.65 159.02a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM143.46 156.08a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM143.46 173.3a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM143.46 130.03a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#000000" stroke="#ffffff" stroke-width="0.66"/>
+<path d="M212.7 203.55a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM212.7 195.57a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM212.7 169.1a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM212.7 177.92a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM212.7 118.68a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM212.7 185.91a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM212.7 137.59a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#000000" stroke="#ffffff" stroke-width="0.66"/>
+</g>
+<path d="M35.45 42.97V211.2H257" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M76.99 211.2v3.5M146.22 211.2v3.5M215.46 211.2v3.5M35.45 145.99h-3.5M35.45 61.96h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="76.99" y="224.14" font-size="9" text-anchor="middle">Shade</text>
+<text x="146.22" y="224.14" font-size="9" text-anchor="middle">Part sun</text>
+<text x="215.46" y="224.14" font-size="9" text-anchor="middle">Full sun</text>
+<text x="28.45" y="148.96" font-size="9" text-anchor="end">40</text>
+<text x="28.45" y="64.93" font-size="9" text-anchor="end">60</text>
+<text x="146.22" y="236.6" font-size="10" text-anchor="middle">bed</text>
+<g transform="translate(11.93 127.08) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">yield</text></g>
+<text x="146.22" y="30.76" font-size="11" text-anchor="middle">box alpha=1</text>
+<clipPath id="plot1"><rect x="308.39" y="42.97" width="212.61" height="168.23"/></clipPath>
+<path d="M348.26 42.97V211.2M414.7 42.97V211.2M481.14 42.97V211.2M308.39 197.31H521M308.39 134.89H521M308.39 72.46H521" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot1)">
+<path d="M327.33 130.73H369.18" fill="none" stroke="#262626" stroke-width="2.7"/>
+<path d="M393.77 122.56H435.62" fill="none" stroke="#262626" stroke-width="2.7"/>
+<path d="M460.21 137.12H502.06" fill="none" stroke="#262626" stroke-width="2.7"/>
+<path d="M327.33 121.78H369.18" fill="none" stroke="#262626" stroke-width="2.7" stroke-dasharray="4.5 3"/>
+<path d="M393.77 131.45H435.62" fill="none" stroke="#262626" stroke-width="2.7" stroke-dasharray="4.5 3"/>
+<path d="M460.21 149.25H502.06" fill="none" stroke="#262626" stroke-width="2.7" stroke-dasharray="4.5 3"/>
+<path d="M345.5 61.23a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM345.5 90.57a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM345.5 71.84a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM345.5 186.7a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM340.42 122.4a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM350.91 121.78a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM345.5 199.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM349.55 203.55a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM345.5 119.28a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#0072b2" stroke="#ffffff" stroke-width="0.66"/>
+<path d="M417.77 138.63a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM417.02 125.52a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM411.94 57.48a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM411.94 199.81a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM411.94 50.62a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM411.94 122.4a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM411.94 137.38a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM411.94 148.62a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#e69f00" stroke="#ffffff" stroke-width="0.66"/>
+<path d="M478.38 53.74a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM478.38 181.08a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM484.21 175.46a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM478.38 174.21a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM478.38 129.89a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM478.38 96.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM478.38 149.25a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#009e73" stroke="#ffffff" stroke-width="0.66"/>
+</g>
+<g fill="#262626" stroke="#ffffff" stroke-width="1.78" stroke-linejoin="round" paint-order="stroke">
+<text x="372.18" y="124.45" font-size="8.1" text-anchor="start">21</text>
+<text x="438.62" y="134.13" font-size="8.1" text-anchor="start">6</text>
+<text x="505.06" y="151.92" font-size="8.1" text-anchor="start">-23</text>
+</g>
+<path d="M308.39 42.97V211.2H521" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M348.26 211.2v3.5M414.7 211.2v3.5M481.14 211.2v3.5M308.39 197.31h-3.5M308.39 134.89h-3.5M308.39 72.46h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="348.26" y="224.14" font-size="9" text-anchor="middle">Shade</text>
+<text x="414.7" y="224.14" font-size="9" text-anchor="middle">Part sun</text>
+<text x="481.14" y="224.14" font-size="9" text-anchor="middle">Full sun</text>
+<text x="301.39" y="200.28" font-size="9" text-anchor="end">−100</text>
+<text x="301.39" y="137.86" font-size="9" text-anchor="end">0</text>
+<text x="301.39" y="75.43" font-size="9" text-anchor="end">100</text>
+<text x="414.7" y="236.6" font-size="10" text-anchor="middle">bed</text>
+<g transform="translate(275.93 127.08) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">depth</text></g>
+<text x="414.7" y="30.76" font-size="11" text-anchor="middle">mean (solid), median=label (dashed)</text>
+<clipPath id="plot2"><rect x="563.45" y="42.97" width="221.55" height="168.23"/></clipPath>
+<path d="M607.09 42.97V211.2M674.22 42.97V211.2M741.36 42.97V211.2M563.45 175.62H785M563.45 124.35H785M563.45 73.09H785" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot2)">
+<path d="M571.12 60.27a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM604.69 74.37a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM638.25 93.34a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM671.82 114.1a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM705.39 135.89a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM738.96 168.95a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM772.53 203.55a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0Z" fill="#0072b2" stroke="none"/>
+<path d="M573.52 50.62L574.52 51.33L575.53 52.03L576.54 52.74L577.54 53.45L578.55 54.16L579.56 54.87L580.57 55.58L581.57 56.29L582.58 57L583.59 57.7L584.59 58.41L585.6 59.12L586.61 59.83L587.62 60.54L588.62 61.25L589.63 61.96L590.64 62.67L591.64 63.38L592.65 64.08L593.66 64.79L594.66 65.5L595.67 66.21L596.68 66.92L597.69 67.63L598.69 68.34L599.7 69.05L600.71 69.75L601.71 70.46L602.72 71.17L603.73 71.88L604.74 72.59L605.74 73.3L606.75 74.01L607.76 74.72L608.76 75.42L609.77 76.13L610.78 76.84L611.79 77.55L612.79 78.26L613.8 78.97L614.81 79.68L615.81 80.39L616.82 81.1L617.83 81.8L618.83 82.51L619.84 83.22L620.85 83.93L621.86 84.64L622.86 85.35L623.87 86.06L624.88 86.77L625.88 87.47L626.89 88.18L627.9 88.89L628.91 89.6L629.91 90.31L630.92 91.02L631.93 91.73L632.93 92.44L633.94 93.14L634.95 93.85L635.95 94.56L636.96 95.27L637.97 95.98L638.98 96.69L639.98 97.4L640.99 98.11L642 98.81L643 99.52L644.01 100.23L645.02 100.94L646.03 101.65L647.03 102.36L648.04 103.07L649.05 103.78L650.05 104.49L651.06 105.19L652.07 105.9L653.07 106.61L654.08 107.32L655.09 108.03L656.1 108.74L657.1 109.45L658.11 110.16L659.12 110.86L660.12 111.57L661.13 112.28L662.14 112.99L663.15 113.7L664.15 114.41L665.16 115.12L666.17 115.83L667.17 116.53L668.18 117.24L669.19 117.95L670.19 118.66L671.2 119.37L672.21 120.08L673.22 120.79L674.22 121.5L675.23 122.21L676.24 122.91L677.24 123.62L678.25 124.33L679.26 125.04L680.27 125.75L681.27 126.46L682.28 127.17L683.29 127.88L684.29 128.58L685.3 129.29L686.31 130L687.31 130.71L688.32 131.42L689.33 132.13L690.34 132.84L691.34 133.55L692.35 134.25L693.36 134.96L694.36 135.67L695.37 136.38L696.38 137.09L697.39 137.8L698.39 138.51L699.4 139.22L700.41 139.93L701.41 140.63L702.42 141.34L703.43 142.05L704.43 142.76L705.44 143.47L706.45 144.18L707.46 144.89L708.46 145.6L709.47 146.3L710.48 147.01L711.48 147.72L712.49 148.43L713.5 149.14L714.51 149.85L715.51 150.56L716.52 151.27L717.53 151.97L718.53 152.68L719.54 153.39L720.55 154.1L721.55 154.81L722.56 155.52L723.57 156.23L724.58 156.94L725.58 157.65L726.59 158.35L727.6 159.06L728.6 159.77L729.61 160.48L730.62 161.19L731.63 161.9L732.63 162.61L733.64 163.32L734.65 164.02L735.65 164.73L736.66 165.44L737.67 166.15L738.68 166.86L739.68 167.57L740.69 168.28L741.7 168.99L742.7 169.69L743.71 170.4L744.72 171.11L745.72 171.82L746.73 172.53L747.74 173.24L748.75 173.95L749.75 174.66L750.76 175.36L751.77 176.07L752.77 176.78L753.78 177.49L754.79 178.2L755.8 178.91L756.8 179.62L757.81 180.33L758.82 181.04L759.82 181.74L760.83 182.45L761.84 183.16L762.84 183.87L763.85 184.58L764.86 185.29L765.87 186L766.87 186.71L767.88 187.41L768.89 188.12L769.89 188.83L770.9 189.54L771.91 190.25L772.92 190.96L773.92 191.67L774.93 192.38" fill="none" stroke="#0072b2" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="5 2.16"/>
+</g>
+<path d="M563.45 42.97V211.2H785" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M607.09 211.2v3.5M674.22 211.2v3.5M741.36 211.2v3.5M563.45 175.62h-3.5M563.45 124.35h-3.5M563.45 73.09h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="607.09" y="224.14" font-size="9" text-anchor="middle">1</text>
+<text x="674.22" y="224.14" font-size="9" text-anchor="middle">2</text>
+<text x="741.36" y="224.14" font-size="9" text-anchor="middle">3</text>
+<text x="556.45" y="178.59" font-size="9" text-anchor="end">40</text>
+<text x="556.45" y="127.32" font-size="9" text-anchor="end">60</text>
+<text x="556.45" y="76.06" font-size="9" text-anchor="end">80</text>
+<text x="674.22" y="236.6" font-size="10" text-anchor="middle">dose</text>
+<g transform="translate(539.93 127.08) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">yield</text></g>
+<text x="674.22" y="30.76" font-size="11" text-anchor="middle">label= names the points</text>
+</svg>

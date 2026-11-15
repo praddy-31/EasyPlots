@@ -1,0 +1,32 @@
+/* Colours shared by both windows; dark mode follows macOS. */
+:root {
+  --bg: #f7f7f8;
+  --fg: #1d1d1f;
+  --muted: #6e6e73;
+  --accent: #0072b2; /* Okabe–Ito blue, the first plot colour */
+  --border: #d2d2d7;
+  --selected: rgba(0, 114, 178, 0.14);
+  --error: #c0392b;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1e1e20;
+    --fg: #f2f2f7;
+    --muted: #98989d;
+    --accent: #56b4e9;
+    --border: #3a3a3c;
+    --selected: rgba(86, 180, 233, 0.22);
+    --error: #ff6b5e;
+  }
+}
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 14px -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+}
+
+/* Elements styled with display: flex must still disappear when hidden. */
+[hidden] { display: none !important; }

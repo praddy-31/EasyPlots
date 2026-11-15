@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="648pt" height="288pt" viewBox="0 0 648 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>line messy.csv skiplines=3 x=t y=temp title=&quot;as read&quot; ; line messy.csv skiplines=3 x=t y=temp clip=0:100 dropna title=&quot;clip=0:100 dropna&quot;</desc>
+<rect width="648" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="40.82" y="24.46" width="276.18" height="234.35"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M40.82 248.15L50.34 248.11L59.87 248.06L69.39 248.02L78.91 247.98L88.44 247.93L97.96 247.89L107.48 35.11L117.01 247.8L126.53 247.76L136.05 247.71L145.58 247.67L155.1 247.63L164.62 247.58L174.15 247.54L183.67 247.5L193.2 247.45L202.72 247.41L212.24 247.37L221.77 35.11L231.29 247.28L240.81 247.24L250.34 247.19L259.86 247.15L269.38 247.11L278.91 247.06L288.43 247.02L297.95 246.97L307.48 246.93L317 246.89" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<rect x="40.82" y="24.46" width="276.18" height="234.35" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M40.82 258.8v-3.5M40.82 24.46v3.5M136.05 258.8v-3.5M136.05 24.46v3.5M231.29 258.8v-3.5M231.29 24.46v3.5M40.82 252.5h3.5M317 252.5h-3.5M40.82 198.1h3.5M317 198.1h-3.5M40.82 143.7h3.5M317 143.7h-3.5M40.82 89.29h3.5M317 89.29h-3.5M40.82 34.89h3.5M317 34.89h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M59.87 258.8v-2M59.87 24.46v2M78.91 258.8v-2M78.91 24.46v2M97.96 258.8v-2M97.96 24.46v2M117.01 258.8v-2M117.01 24.46v2M155.1 258.8v-2M155.1 24.46v2M174.15 258.8v-2M174.15 24.46v2M193.2 258.8v-2M193.2 24.46v2M212.24 258.8v-2M212.24 24.46v2M250.34 258.8v-2M250.34 24.46v2M269.38 258.8v-2M269.38 24.46v2M288.43 258.8v-2M288.43 24.46v2M307.48 258.8v-2M307.48 24.46v2M40.82 241.62h2M317 241.62h-2M40.82 230.74h2M317 230.74h-2M40.82 219.86h2M317 219.86h-2M40.82 208.98h2M317 208.98h-2M40.82 187.22h2M317 187.22h-2M40.82 176.34h2M317 176.34h-2M40.82 165.46h2M317 165.46h-2M40.82 154.58h2M317 154.58h-2M40.82 132.82h2M317 132.82h-2M40.82 121.94h2M317 121.94h-2M40.82 111.05h2M317 111.05h-2M40.82 100.17h2M317 100.17h-2M40.82 78.41h2M317 78.41h-2M40.82 67.53h2M317 67.53h-2M40.82 56.65h2M317 56.65h-2M40.82 45.77h2M317 45.77h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="40.82" y="268.21" font-size="9" text-anchor="middle">0</text>
+<text x="136.05" y="268.21" font-size="9" text-anchor="middle">10</text>
+<text x="231.29" y="268.21" font-size="9" text-anchor="middle">20</text>
+<text x="37.32" y="255.46" font-size="9" text-anchor="end">0</text>
+<text x="37.32" y="201.06" font-size="9" text-anchor="end">250</text>
+<text x="37.32" y="146.65" font-size="9" text-anchor="end">500</text>
+<text x="37.32" y="92.25" font-size="9" text-anchor="end">750</text>
+<text x="37.32" y="37.85" font-size="9" text-anchor="end">1000</text>
+<text x="178.91" y="281.1" font-size="10" text-anchor="middle">t</text>
+<g transform="translate(11.9 141.63) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">temp</text></g>
+<text x="178.91" y="12.23" font-size="11" text-anchor="middle">as read</text>
+<clipPath id="plot1"><rect x="355.91" y="24.46" width="285.09" height="234.35"/></clipPath>
+<g clip-path="url(#plot1)">
+<path d="M355.91 248.15L365.74 240.8L375.57 233.46L385.4 226.11L395.23 218.76L405.06 211.42L414.89 204.07L434.56 189.38L444.39 182.03L454.22 174.69L464.05 167.34L473.88 159.99L483.71 152.65L493.54 145.3L503.37 137.96L513.2 130.61L523.03 123.26L532.86 115.92L552.52 101.22L562.35 93.88L572.19 86.53L582.02 79.19L591.85 71.84L601.68 64.49L611.51 57.15L621.34 49.8L631.17 42.45L641 35.11" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<rect x="355.91" y="24.46" width="285.09" height="234.35" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M355.91 258.8v-3.5M355.91 24.46v3.5M454.22 258.8v-3.5M454.22 24.46v3.5M552.52 258.8v-3.5M552.52 24.46v3.5M355.91 248.15h3.5M641 248.15h-3.5M355.91 174.69h3.5M641 174.69h-3.5M355.91 101.22h3.5M641 101.22h-3.5M355.91 27.76h3.5M641 27.76h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M375.57 258.8v-2M375.57 24.46v2M395.23 258.8v-2M395.23 24.46v2M414.89 258.8v-2M414.89 24.46v2M434.56 258.8v-2M434.56 24.46v2M473.88 258.8v-2M473.88 24.46v2M493.54 258.8v-2M493.54 24.46v2M513.2 258.8v-2M513.2 24.46v2M532.86 258.8v-2M532.86 24.46v2M572.19 258.8v-2M572.19 24.46v2M591.85 258.8v-2M591.85 24.46v2M611.51 258.8v-2M611.51 24.46v2M631.17 258.8v-2M631.17 24.46v2M355.91 229.78h2M641 229.78h-2M355.91 211.42h2M641 211.42h-2M355.91 193.05h2M641 193.05h-2M355.91 156.32h2M641 156.32h-2M355.91 137.96h2M641 137.96h-2M355.91 119.59h2M641 119.59h-2M355.91 82.86h2M641 82.86h-2M355.91 64.49h2M641 64.49h-2M355.91 46.13h2M641 46.13h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="355.91" y="268.21" font-size="9" text-anchor="middle">0</text>
+<text x="454.22" y="268.21" font-size="9" text-anchor="middle">10</text>
+<text x="552.52" y="268.21" font-size="9" text-anchor="middle">20</text>
+<text x="352.41" y="251.11" font-size="9" text-anchor="end">20</text>
+<text x="352.41" y="177.64" font-size="9" text-anchor="end">22</text>
+<text x="352.41" y="104.18" font-size="9" text-anchor="end">24</text>
+<text x="352.41" y="30.72" font-size="9" text-anchor="end">26</text>
+<text x="498.46" y="281.1" font-size="10" text-anchor="middle">t</text>
+<g transform="translate(335.9 141.63) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">temp</text></g>
+<text x="498.46" y="12.23" font-size="11" text-anchor="middle">clip=0:100 dropna</text>
+</svg>

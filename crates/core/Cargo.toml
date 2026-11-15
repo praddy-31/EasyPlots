@@ -1,0 +1,22 @@
+[package]
+name = "easyplots-core"
+description = "The EasyPlots engine: CSV loading, command parsing, rendering and export"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+publish.workspace = true
+
+[dependencies]
+chrono = { version = "0.4.42", default-features = false, features = ["std", "clock"] }
+calamine = { version = "0.37", features = ["dates"] }
+csv = "1.4"
+nucleo-matcher = "0.3"
+pdf-writer = "0.12"
+png = "0.17"
+resvg = { version = "0.45", default-features = false, features = ["text"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+svg2pdf = { version = "0.13", default-features = false, features = ["text"] }
+toml = { version = "1", default-features = false, features = ["parse", "display", "serde"] }
+toml_edit = "0.23"
+ttf-parser = "0.25"

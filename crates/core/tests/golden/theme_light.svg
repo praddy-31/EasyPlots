@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'Source Sans 3'" fill="#262626">
+<desc>bar text_categories.csv x=month y=north,south --theme=light</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="20.95" y="7.97" width="404.05" height="246.43"/></clipPath>
+<path d="M78.67 7.97V254.4M174.87 7.97V254.4M271.07 7.97V254.4M367.28 7.97V254.4M20.95 254.4H425M20.95 189.21H425M20.95 124.01H425M20.95 58.82H425" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot0)">
+<path d="M40.19 254.4H78.67V97.94H40.19ZM136.39 254.4H174.87V58.82H136.39ZM232.59 254.4H271.07V71.86H232.59ZM328.8 254.4H367.28V19.7H328.8Z" fill="#0072b2" stroke="none"/>
+<path d="M78.67 254.4H117.15V137.05H78.67ZM174.87 254.4H213.35V110.98H174.87ZM271.07 254.4H309.56V84.9H271.07ZM367.28 254.4H405.76V97.94H367.28Z" fill="#e69f00" stroke="none"/>
+</g>
+<path d="M20.95 7.97V254.4H425" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M78.67 254.4v3.5M174.87 254.4v3.5M271.07 254.4v3.5M367.28 254.4v3.5M20.95 254.4h-3.5M20.95 189.21h-3.5M20.95 124.01h-3.5M20.95 58.82h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="78.67" y="267.34" font-size="9" text-anchor="middle">Jan</text>
+<text x="174.87" y="267.34" font-size="9" text-anchor="middle">Feb</text>
+<text x="271.07" y="267.34" font-size="9" text-anchor="middle">Mar</text>
+<text x="367.28" y="267.34" font-size="9" text-anchor="middle">Apr</text>
+<text x="13.95" y="257.37" font-size="9" text-anchor="end">0</text>
+<text x="13.95" y="192.18" font-size="9" text-anchor="end">5</text>
+<text x="13.95" y="126.98" font-size="9" text-anchor="end">10</text>
+<text x="13.95" y="61.79" font-size="9" text-anchor="end">15</text>
+<text x="222.97" y="279.8" font-size="10" text-anchor="middle">month</text>
+<rect x="26.95" y="13.97" width="56.87" height="33.25" fill="#ffffff" fill-opacity="0.85" stroke="#e6e6e6" stroke-width="0.5"/>
+<rect x="33.95" y="19.47" width="14" height="7" fill="#0072b2"/>
+<text x="55.95" y="26.27" font-size="10" text-anchor="start">north</text>
+<rect x="33.95" y="32.97" width="14" height="7" fill="#e69f00"/>
+<text x="55.95" y="39.77" font-size="10" text-anchor="start">south</text>
+</svg>

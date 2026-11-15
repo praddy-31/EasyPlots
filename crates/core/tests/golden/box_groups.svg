@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>box samples.csv x=site y=height</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="36.36" y="7.96" width="388.63" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M72.8 178.12H145.67V146.44H72.8ZM194.25 216.28H267.12V176.08H194.25ZM315.7 186.53H388.57V162.57H315.7Z" fill="#0072b2" fill-opacity="0.25" stroke="#0072b2" stroke-width="1"/>
+<path d="M109.23 146.44V134.29M91.02 134.29H127.45M109.23 178.12V214.69M91.02 214.69H127.45M230.68 176.08V160.64M212.47 160.64H248.9M230.68 216.28V247.4M212.47 247.4H248.9M352.13 162.57V134.29M333.91 134.29H370.35M352.13 186.53V218.78M333.91 218.78H370.35" fill="none" stroke="#0072b2" stroke-width="1"/>
+<path d="M72.8 167.68H145.67M194.25 192.89H267.12M315.7 175.4H388.57" fill="none" stroke="#0072b2" stroke-width="2"/>
+<path d="M107.83 228.77a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0ZM350.73 19.36a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0Z" fill="none" stroke="#0072b2" stroke-width="0.8"/>
+</g>
+<rect x="36.36" y="7.96" width="388.63" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M109.23 258.8v-3.5M109.23 7.96v3.5M230.68 258.8v-3.5M230.68 7.96v3.5M352.13 258.8v-3.5M352.13 7.96v3.5M36.36 223.78h3.5M425 223.78h-3.5M36.36 178.35h3.5M425 178.35h-3.5M36.36 132.92h3.5M425 132.92h-3.5M36.36 87.5h3.5M425 87.5h-3.5M36.36 42.07h3.5M425 42.07h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M36.36 251.03h2M425 251.03h-2M36.36 241.95h2M425 241.95h-2M36.36 232.86h2M425 232.86h-2M36.36 214.69h2M425 214.69h-2M36.36 205.61h2M425 205.61h-2M36.36 196.52h2M425 196.52h-2M36.36 187.44h2M425 187.44h-2M36.36 169.27h2M425 169.27h-2M36.36 160.18h2M425 160.18h-2M36.36 151.1h2M425 151.1h-2M36.36 142.01h2M425 142.01h-2M36.36 123.84h2M425 123.84h-2M36.36 114.75h2M425 114.75h-2M36.36 105.67h2M425 105.67h-2M36.36 96.58h2M425 96.58h-2M36.36 78.41h2M425 78.41h-2M36.36 69.33h2M425 69.33h-2M36.36 60.24h2M425 60.24h-2M36.36 51.16h2M425 51.16h-2M36.36 32.99h2M425 32.99h-2M36.36 23.9h2M425 23.9h-2M36.36 14.82h2M425 14.82h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="109.23" y="268.21" font-size="9" text-anchor="middle">north</text>
+<text x="230.68" y="268.21" font-size="9" text-anchor="middle">south</text>
+<text x="352.13" y="268.21" font-size="9" text-anchor="middle">east</text>
+<text x="32.86" y="226.73" font-size="9" text-anchor="end">160</text>
+<text x="32.86" y="181.31" font-size="9" text-anchor="end">170</text>
+<text x="32.86" y="135.88" font-size="9" text-anchor="end">180</text>
+<text x="32.86" y="90.45" font-size="9" text-anchor="end">190</text>
+<text x="32.86" y="45.03" font-size="9" text-anchor="end">200</text>
+<text x="230.68" y="281.1" font-size="10" text-anchor="middle">site</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">height</text></g>
+</svg>

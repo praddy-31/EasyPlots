@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>bar garden.csv x=bed y=yield stat=mean by=soil values=%.0f</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="31.91" y="7.96" width="393.09" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M56.48 258.8H105.61V63.97H56.48ZM179.32 258.8H228.45V126.2H179.32ZM302.16 258.8H351.3V137.89H302.16Z" fill="#0072b2" stroke="none"/>
+<path d="M105.61 258.8H154.75V69.29H105.61ZM228.45 258.8H277.59V110.49H228.45ZM351.3 258.8H400.43V142.59H351.3Z" fill="#e69f00" stroke="none"/>
+<path d="M81.05 79.4V48.55M79.25 79.4h3.6M79.25 48.55h3.6M203.89 144.16V108.25M202.09 144.16h3.6M202.09 108.25h3.6M326.73 167.19V108.58M324.93 167.19h3.6M324.93 108.58h3.6" fill="none" stroke="#000000" stroke-width="0.88"/>
+<path d="M130.18 103.74V34.83M128.38 103.74h3.6M128.38 34.83h3.6M253.02 138.58V82.39M251.22 138.58h3.6M251.22 82.39h3.6M375.86 168.19V116.99M374.06 168.19h3.6M374.06 116.99h3.6" fill="none" stroke="#000000" stroke-width="0.88"/>
+</g>
+<g fill="#000000" stroke="#ffffff" stroke-width="1.78" stroke-linejoin="round" paint-order="stroke">
+<text x="81.05" y="45.55" font-size="8.1" text-anchor="middle">56</text>
+<text x="203.89" y="105.25" font-size="8.1" text-anchor="middle">38</text>
+<text x="326.73" y="105.58" font-size="8.1" text-anchor="middle">35</text>
+</g>
+<g fill="#000000" stroke="#ffffff" stroke-width="1.78" stroke-linejoin="round" paint-order="stroke">
+<text x="130.18" y="31.83" font-size="8.1" text-anchor="middle">55</text>
+<text x="253.02" y="79.39" font-size="8.1" text-anchor="middle">43</text>
+<text x="375.86" y="113.99" font-size="8.1" text-anchor="middle">34</text>
+</g>
+<rect x="31.91" y="7.96" width="393.09" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M105.61 258.8v-3.5M105.61 7.96v3.5M228.45 258.8v-3.5M228.45 7.96v3.5M351.3 258.8v-3.5M351.3 7.96v3.5M31.91 258.8h3.5M425 258.8h-3.5M31.91 189.56h3.5M425 189.56h-3.5M31.91 120.32h3.5M425 120.32h-3.5M31.91 51.08h3.5M425 51.08h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M31.91 241.49h2M425 241.49h-2M31.91 224.18h2M425 224.18h-2M31.91 206.87h2M425 206.87h-2M31.91 172.25h2M425 172.25h-2M31.91 154.94h2M425 154.94h-2M31.91 137.63h2M425 137.63h-2M31.91 103.01h2M425 103.01h-2M31.91 85.7h2M425 85.7h-2M31.91 68.39h2M425 68.39h-2M31.91 33.77h2M425 33.77h-2M31.91 16.46h2M425 16.46h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="105.61" y="268.21" font-size="9" text-anchor="middle">Shade</text>
+<text x="228.45" y="268.21" font-size="9" text-anchor="middle">Part sun</text>
+<text x="351.3" y="268.21" font-size="9" text-anchor="middle">Full sun</text>
+<text x="28.41" y="261.76" font-size="9" text-anchor="end">0</text>
+<text x="28.41" y="192.52" font-size="9" text-anchor="end">20</text>
+<text x="28.41" y="123.28" font-size="9" text-anchor="end">40</text>
+<text x="28.41" y="54.03" font-size="9" text-anchor="end">60</text>
+<text x="228.45" y="281.1" font-size="10" text-anchor="middle">bed</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">yield (mean ± sd)</text></g>
+<rect x="361.69" y="13.96" width="57.31" height="33.25" fill="#ffffff" fill-opacity="0.85" stroke="#bfbfbf" stroke-width="0.5"/>
+<rect x="368.69" y="19.46" width="14" height="7" fill="#0072b2"/>
+<path d="M375.69 18.46V27.46" stroke="#0072b2" stroke-width="0.88"/>
+<text x="390.69" y="26.24" font-size="10" text-anchor="start">Loam</text>
+<rect x="368.69" y="32.96" width="14" height="7" fill="#e69f00"/>
+<path d="M375.69 31.96V40.96" stroke="#e69f00" stroke-width="0.88"/>
+<text x="390.69" y="39.74" font-size="10" text-anchor="start">Clay</text>
+</svg>

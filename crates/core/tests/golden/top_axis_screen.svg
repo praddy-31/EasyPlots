@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'Source Sans 3'" fill="#262626">
+<desc>line simple.csv x=time y=temp x2=&quot;time*60&quot; x2label=&quot;Minutes&quot; yspan=22:24:&quot;comfort&quot; --theme=light</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="42.16" y="36.57" width="382.84" height="217.83"/></clipPath>
+<path d="M42.16 36.57V254.4M140.32 36.57V254.4M238.49 36.57V254.4M336.65 36.57V254.4M42.16 234H425M42.16 189.97H425M42.16 145.93H425M42.16 101.9H425M42.16 57.87H425" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot0)">
+<path d="M42.16 119.51V154.74H425V119.51Z" fill="#262626" fill-opacity="0.1" stroke="none"/>
+<path d="M42.16 189.97L51.98 166.42L61.79 144.23L71.61 124.66L81.43 108.82L91.24 97.59L101.06 91.56L110.87 90.98L120.69 95.81L130.51 105.6L140.32 119.65L150.14 136.99L159.96 156.4L169.77 176.6L179.59 196.2L189.41 213.89L199.22 228.44L209.04 238.84L218.86 244.36L228.67 244.5L238.49 239.2L248.3 228.63L258.12 213.36L267.94 194.21L277.75 172.3L287.57 148.86L297.39 125.22L307.2 102.78L317.02 82.79L326.84 66.41L336.65 54.52L346.47 47.77L356.29 46.47L366.1 50.59L375.92 59.77L385.73 73.3L395.55 90.26L405.37 109.49L415.18 129.66L425 149.42" fill="none" stroke="#0072b2" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g fill="#262626" fill-opacity="0.8">
+<text x="46.16" y="140.1" font-size="9" text-anchor="start">comfort</text>
+</g>
+<path d="M42.16 36.57V254.4H425" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M42.16 254.4v3.5M140.32 254.4v3.5M238.49 254.4v3.5M336.65 254.4v3.5M42.16 234h-3.5M42.16 189.97h-3.5M42.16 145.93h-3.5M42.16 101.9h-3.5M42.16 57.87h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<path d="M42.16 36.57v-3.5M107.6 36.57v-3.5M173.05 36.57v-3.5M238.49 36.57v-3.5M303.93 36.57v-3.5M369.37 36.57v-3.5M42.16 36.57H425" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="42.16" y="27.41" font-size="9" text-anchor="middle">0</text>
+<text x="107.6" y="27.41" font-size="9" text-anchor="middle">200</text>
+<text x="173.05" y="27.41" font-size="9" text-anchor="middle">400</text>
+<text x="238.49" y="27.41" font-size="9" text-anchor="middle">600</text>
+<text x="303.93" y="27.41" font-size="9" text-anchor="middle">800</text>
+<text x="369.37" y="27.41" font-size="9" text-anchor="middle">1000</text>
+<text x="233.58" y="12.97" font-size="10" text-anchor="middle">Minutes</text>
+<text x="42.16" y="267.34" font-size="9" text-anchor="middle">0</text>
+<text x="140.32" y="267.34" font-size="9" text-anchor="middle">5</text>
+<text x="238.49" y="267.34" font-size="9" text-anchor="middle">10</text>
+<text x="336.65" y="267.34" font-size="9" text-anchor="middle">15</text>
+<text x="35.16" y="236.97" font-size="9" text-anchor="end">17.5</text>
+<text x="35.16" y="192.94" font-size="9" text-anchor="end">20.0</text>
+<text x="35.16" y="148.9" font-size="9" text-anchor="end">22.5</text>
+<text x="35.16" y="104.87" font-size="9" text-anchor="end">25.0</text>
+<text x="35.16" y="60.84" font-size="9" text-anchor="end">27.5</text>
+<text x="233.58" y="279.8" font-size="10" text-anchor="middle">time</text>
+<g transform="translate(11.93 145.49) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">temp</text></g>
+</svg>

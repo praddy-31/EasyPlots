@@ -1,0 +1,9 @@
+# Recorded on bench 2, 2026-10-20
+# columns: time (s), voltage (V), current (mA)
+time,"Voltage (V)",current
+0,1.20,15.1
+1,1.22,
+2,,15.9
+3,1.27,NaN
+4,1.31,16.8
+5,1.30,17.0

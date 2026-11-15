@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>box garden.csv x=bed y=width summary highlight=&quot;Full sun&quot;</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="36.36" y="7.96" width="388.63" height="233.13"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M72.8 131.39H145.67V111.77H72.8ZM194.25 230.49H267.12V147.66H194.25Z" fill="#adadad" fill-opacity="0.25" stroke="#adadad" stroke-width="1"/>
+<path d="M109.23 111.77V111.77M91.02 111.77H127.45M109.23 131.39V139.24M91.02 139.24H127.45M230.68 147.66V86.58M212.47 86.58H248.9M230.68 230.49V230.49M212.47 230.49H248.9" fill="none" stroke="#adadad" stroke-width="1"/>
+<path d="M72.8 114.71H145.67M194.25 176.85H267.12" fill="none" stroke="#adadad" stroke-width="2"/>
+<path d="M107.83 181.11a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0ZM107.83 66.96a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0ZM107.83 18.55a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0Z" fill="none" stroke="#adadad" stroke-width="0.8"/>
+<path d="M315.7 230.49H388.57V184.21H315.7Z" fill="#0072b2" fill-opacity="0.25" stroke="#0072b2" stroke-width="1"/>
+<path d="M352.13 184.21V147.74M333.91 147.74H370.35M352.13 230.49V230.49M333.91 230.49H370.35" fill="none" stroke="#0072b2" stroke-width="1"/>
+<path d="M315.7 230.49H388.57" fill="none" stroke="#0072b2" stroke-width="2"/>
+<path d="M350.73 52.24a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0Z" fill="none" stroke="#0072b2" stroke-width="0.8"/>
+</g>
+<rect x="36.36" y="7.96" width="388.63" height="233.13" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M109.23 241.09v-3.5M109.23 7.96v3.5M230.68 241.09v-3.5M230.68 7.96v3.5M352.13 241.09v-3.5M352.13 7.96v3.5M36.36 225.59h3.5M425 225.59h-3.5M36.36 160.17h3.5M425 160.17h-3.5M36.36 94.76h3.5M425 94.76h-3.5M36.36 29.35h3.5M425 29.35h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M36.36 209.23h2M425 209.23h-2M36.36 192.88h2M425 192.88h-2M36.36 176.53h2M425 176.53h-2M36.36 143.82h2M425 143.82h-2M36.36 127.47h2M425 127.47h-2M36.36 111.11h2M425 111.11h-2M36.36 78.41h2M425 78.41h-2M36.36 62.05h2M425 62.05h-2M36.36 45.7h2M425 45.7h-2M36.36 12.99h2M425 12.99h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="109.23" y="250.5" font-size="9" text-anchor="middle">Shade</text>
+<text x="109.23" y="259.36" font-size="7.38" text-anchor="middle">N = 9</text>
+<text x="109.23" y="268.21" font-size="7.38" text-anchor="middle">548 ± 141</text>
+<text x="230.68" y="250.5" font-size="9" text-anchor="middle">Part sun</text>
+<text x="230.68" y="259.36" font-size="7.38" text-anchor="middle">N = 8</text>
+<text x="230.68" y="268.21" font-size="7.38" text-anchor="middle">349 ± 162</text>
+<g font-weight="bold">
+<text x="352.13" y="250.5" font-size="9" text-anchor="middle">Full sun</text>
+</g>
+<text x="352.13" y="259.36" font-size="7.38" text-anchor="middle">N = 7</text>
+<text x="352.13" y="268.21" font-size="7.38" text-anchor="middle">303 ± 210</text>
+<text x="32.86" y="228.54" font-size="9" text-anchor="end">200</text>
+<text x="32.86" y="163.13" font-size="9" text-anchor="end">400</text>
+<text x="32.86" y="97.72" font-size="9" text-anchor="end">600</text>
+<text x="32.86" y="32.3" font-size="9" text-anchor="end">800</text>
+<text x="230.68" y="281.1" font-size="10" text-anchor="middle">bed</text>
+<g transform="translate(11.9 124.52) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">width</text></g>
+</svg>

@@ -1,0 +1,25 @@
+bed,sample,width,depth,yield,yield_sd,mass,soil
+Shade,1,543,118,53.7,4.3,2.60, Loam
+Shade,2,685,71,53.9,8.3,1.45,Clay
+Shade,3,833,101,58.8,5.9,0.35,Clay
+Shade,4,539,-83,52.9,6.4,2.70, Loam
+Shade,5,464,20,62.7,8.2,1.91,Clay
+Shade,6,336,21,60.4,6.6,2.43,Clay
+Shade,7,495,-103,55.8,7.1,1.69,Loam
+Shade,8,548,-110,62.7,4.4,2.88,Loam
+Shade,9,488,25,37.9,3.4,2.84,Clay
+Part sun,1,185,-6,41.1,4.0,1.64,Clay
+Part sun,2,625,15,57.1,5.9,2.17,Clay
+Part sun,3,376,124,39.8,6.8,2.03,Clay
+Part sun,4,185,-104,39.3,4.1,1.82,Clay
+Part sun,5,421,135,36.9,3.2,2.76,Clay
+Part sun,6,185,20,37.6,8.4,2.85,Loam
+Part sun,7,490,-4,33.5,6.0,1.48, Loam
+Part sun,8,322,-22,43.8,13.6,1.87,Loam
+Full sun,1,185,130,26.3,7.1,2.83,Loam
+Full sun,2,185,-74,28.2,3.4,2.02,Clay
+Full sun,3,215,-65,34.5,2.7,2.80, Loam
+Full sun,4,185,-63,32.4,4.4,0.30, Loam
+Full sun,5,185,8,46.5,5.5,1.56, Loam
+Full sun,6,730,62,30.5,7.7,2.32,Clay
+Full sun,7,438,-23,42.0,13.6,2.72,Clay

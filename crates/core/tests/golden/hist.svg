@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>hist samples.csv y=height</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="31.91" y="7.96" width="393.09" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M31.91 258.8H56.48V242.88H31.91ZM56.48 258.8H81.05V179.17H56.48ZM81.05 258.8H105.61V163.24H81.05ZM105.61 258.8H130.18V195.1H105.61ZM130.18 258.8H154.75V35.83H130.18ZM154.75 258.8H179.32V19.9H154.75ZM179.32 258.8H203.89V179.17H179.32ZM203.89 258.8H228.45V115.46H203.89ZM400.43 258.8H425V242.88H400.43Z" fill="#0072b2" stroke="#ffffff" stroke-width="0.4"/>
+</g>
+<rect x="31.91" y="7.96" width="393.09" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M72.63 258.8v-3.5M72.63 7.96v3.5M150.93 258.8v-3.5M150.93 7.96v3.5M229.24 258.8v-3.5M229.24 7.96v3.5M307.54 258.8v-3.5M307.54 7.96v3.5M385.85 258.8v-3.5M385.85 7.96v3.5M31.91 258.8h3.5M425 258.8h-3.5M31.91 179.17h3.5M425 179.17h-3.5M31.91 99.53h3.5M425 99.53h-3.5M31.91 19.9h3.5M425 19.9h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M41.31 258.8v-2M41.31 7.96v2M56.97 258.8v-2M56.97 7.96v2M88.29 258.8v-2M88.29 7.96v2M103.95 258.8v-2M103.95 7.96v2M119.61 258.8v-2M119.61 7.96v2M135.27 258.8v-2M135.27 7.96v2M166.59 258.8v-2M166.59 7.96v2M182.26 258.8v-2M182.26 7.96v2M197.92 258.8v-2M197.92 7.96v2M213.58 258.8v-2M213.58 7.96v2M244.9 258.8v-2M244.9 7.96v2M260.56 258.8v-2M260.56 7.96v2M276.22 258.8v-2M276.22 7.96v2M291.88 258.8v-2M291.88 7.96v2M323.2 258.8v-2M323.2 7.96v2M338.86 258.8v-2M338.86 7.96v2M354.53 258.8v-2M354.53 7.96v2M370.19 258.8v-2M370.19 7.96v2M401.51 258.8v-2M401.51 7.96v2M417.17 258.8v-2M417.17 7.96v2M31.91 242.88h2M425 242.88h-2M31.91 226.95h2M425 226.95h-2M31.91 211.02h2M425 211.02h-2M31.91 195.1h2M425 195.1h-2M31.91 163.24h2M425 163.24h-2M31.91 147.31h2M425 147.31h-2M31.91 131.39h2M425 131.39h-2M31.91 115.46h2M425 115.46h-2M31.91 83.61h2M425 83.61h-2M31.91 67.68h2M425 67.68h-2M31.91 51.75h2M425 51.75h-2M31.91 35.83h2M425 35.83h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="72.63" y="268.21" font-size="9" text-anchor="middle">160</text>
+<text x="150.93" y="268.21" font-size="9" text-anchor="middle">170</text>
+<text x="229.24" y="268.21" font-size="9" text-anchor="middle">180</text>
+<text x="307.54" y="268.21" font-size="9" text-anchor="middle">190</text>
+<text x="385.85" y="268.21" font-size="9" text-anchor="middle">200</text>
+<text x="28.41" y="261.76" font-size="9" text-anchor="end">0</text>
+<text x="28.41" y="182.12" font-size="9" text-anchor="end">5</text>
+<text x="28.41" y="102.49" font-size="9" text-anchor="end">10</text>
+<text x="28.41" y="22.86" font-size="9" text-anchor="end">15</text>
+<text x="228.45" y="281.1" font-size="10" text-anchor="middle">height</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">Count</text></g>
+</svg>

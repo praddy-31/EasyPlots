@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>bar dates.csv x=date y=sales_north color=green</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="36.36" y="7.96" width="388.63" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M42.29 258.8H65.97V117.14H42.29ZM75.06 258.8H98.74V95.53H75.06ZM104.66 258.8H128.34V113.54H104.66ZM137.44 258.8H161.12V91.93H137.44ZM169.15 258.8H192.83V70.32H169.15ZM201.93 258.8H225.61V88.33H201.93ZM233.64 258.8H257.32V66.72H233.64ZM266.42 258.8H290.1V45.11H266.42ZM299.19 258.8H322.87V63.12H299.19ZM330.91 258.8H354.59V41.51H330.91ZM363.68 258.8H387.36V19.9H363.68ZM395.4 258.8H419.08V37.91H395.4Z" fill="#2ca02c" stroke="none"/>
+</g>
+<rect x="36.36" y="7.96" width="388.63" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M54.13 258.8v-3.5M54.13 7.96v3.5M149.28 258.8v-3.5M149.28 7.96v3.5M245.48 258.8v-3.5M245.48 7.96v3.5M342.75 258.8v-3.5M342.75 7.96v3.5M36.36 258.8h3.5M425 258.8h-3.5M36.36 198.78h3.5M425 198.78h-3.5M36.36 138.75h3.5M425 138.75h-3.5M36.36 78.73h3.5M425 78.73h-3.5M36.36 18.7h3.5M425 18.7h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M36.36 246.8h2M425 246.8h-2M36.36 234.79h2M425 234.79h-2M36.36 222.79h2M425 222.79h-2M36.36 210.78h2M425 210.78h-2M36.36 186.77h2M425 186.77h-2M36.36 174.77h2M425 174.77h-2M36.36 162.76h2M425 162.76h-2M36.36 150.76h2M425 150.76h-2M36.36 126.75h2M425 126.75h-2M36.36 114.74h2M425 114.74h-2M36.36 102.74h2M425 102.74h-2M36.36 90.73h2M425 90.73h-2M36.36 66.72h2M425 66.72h-2M36.36 54.72h2M425 54.72h-2M36.36 42.71h2M425 42.71h-2M36.36 30.71h2M425 30.71h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="54.13" y="268.21" font-size="9" text-anchor="middle">Jan</text>
+<text x="149.28" y="268.21" font-size="9" text-anchor="middle">Apr</text>
+<text x="245.48" y="268.21" font-size="9" text-anchor="middle">Jul</text>
+<text x="342.75" y="268.21" font-size="9" text-anchor="middle">Oct</text>
+<text x="32.86" y="261.76" font-size="9" text-anchor="end">0</text>
+<text x="32.86" y="201.73" font-size="9" text-anchor="end">50</text>
+<text x="32.86" y="141.71" font-size="9" text-anchor="end">100</text>
+<text x="32.86" y="81.68" font-size="9" text-anchor="end">150</text>
+<text x="32.86" y="21.66" font-size="9" text-anchor="end">200</text>
+<text x="230.68" y="281.1" font-size="10" text-anchor="middle">date</text>
+<text x="425" y="281.1" font-size="9" text-anchor="end">2026</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">sales_north</text></g>
+</svg>

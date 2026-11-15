@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>polar pattern.csv x=angle y=gain,reference title=&quot;Antenna&quot;</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<path d="M147.04 152.25a27.74 27.74 0 1 0 55.47 0a27.74 27.74 0 1 0 -55.47 0M119.3 152.25a55.47 55.47 0 1 0 110.95 0a55.47 55.47 0 1 0 -110.95 0M91.56 152.25a83.21 83.21 0 1 0 166.42 0a83.21 83.21 0 1 0 -166.42 0M174.77 152.25L285.72 152.25M174.77 152.25L253.23 73.8M174.77 152.25L174.77 41.3M174.77 152.25L96.32 73.8M174.77 152.25L63.82 152.25M174.77 152.25L96.32 230.7M174.77 152.25L174.77 263.2M174.77 152.25L253.23 230.7" fill="none" stroke="#d9d9d9" stroke-width="0.5"/>
+<clipPath id="plot0"><circle cx="174.77" cy="152.25" r="110.95"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M274.63 152.25L271.12 135.26L261.17 120.8L246.33 110.94L228.86 106.86L211.31 108.71L196.01 115.47L184.64 125.14L177.82 135L174.77 141.16L171.73 135L164.91 125.14L153.54 115.47L138.24 108.71L120.69 106.86L103.22 110.94L88.38 120.8L78.43 135.26L74.92 152.25L78.43 169.24L88.38 183.7L103.22 193.56L120.69 197.64L138.24 195.79L153.54 189.03L164.91 179.36L171.73 169.5L174.77 163.34L177.82 169.5L184.64 179.36L196.01 189.03L211.31 195.79L228.86 197.64L246.33 193.56L261.17 183.7L271.12 169.24L274.63 152.25" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M230.25 152.25L229.41 142.62L226.9 133.28L222.82 124.51L217.27 116.59L210.43 109.75L202.51 104.21L193.75 100.12L184.41 97.62L174.77 96.78L165.14 97.62L155.8 100.12L147.04 104.21L139.12 109.75L132.28 116.59L126.73 124.51L122.65 133.28L120.14 142.62L119.3 152.25L120.14 161.88L122.65 171.22L126.73 179.99L132.28 187.91L139.12 194.75L147.04 200.29L155.8 204.38L165.14 206.88L174.77 207.72L184.41 206.88L193.75 204.38L202.51 200.29L210.43 194.75L217.27 187.91L222.82 179.99L226.9 171.22L229.41 161.88L230.25 152.25" fill="none" stroke="#e69f00" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4.62 2"/>
+</g>
+<circle cx="174.77" cy="152.25" r="110.95" fill="none" stroke="#000000" stroke-width="0.8"/>
+<text x="291.39" y="155.21" font-size="9" text-anchor="start">0°</text>
+<text x="256.53" y="71.03" font-size="9" text-anchor="start">45°</text>
+<text x="174.77" y="36.16" font-size="9" text-anchor="middle">90°</text>
+<text x="93.02" y="71.03" font-size="9" text-anchor="end">135°</text>
+<text x="58.15" y="155.21" font-size="9" text-anchor="end">180°</text>
+<text x="93.02" y="239.39" font-size="9" text-anchor="end">225°</text>
+<text x="174.77" y="274.26" font-size="9" text-anchor="middle">270°</text>
+<text x="256.53" y="239.39" font-size="9" text-anchor="start">315°</text>
+<text x="202.4" y="139.64" font-size="9" text-anchor="start">2.5</text>
+<text x="228.03" y="129.02" font-size="9" text-anchor="start">5.0</text>
+<text x="253.65" y="118.41" font-size="9" text-anchor="start">7.5</text>
+<text x="279.28" y="107.79" font-size="9" text-anchor="start">10.0</text>
+<text x="174.77" y="12.23" font-size="11" text-anchor="middle">Antenna</text>
+<path d="M315.52 46.3L335.52 46.3" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="340.52" y="49.58" font-size="10" text-anchor="start">gain</text>
+<path d="M315.52 59.8L335.52 59.8" fill="none" stroke="#e69f00" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+<text x="340.52" y="63.08" font-size="10" text-anchor="start">reference</text>
+</svg>

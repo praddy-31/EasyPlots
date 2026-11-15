@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576pt" height="259.2pt" viewBox="0 0 576 259.2" font-family="'STIX Two Text'" fill="#000000">
+<desc>line simple.csv x=time y=temp,pressure axis=left,right hline2=101.2:&quot;limit&quot; title=&quot;axis=left,right&quot; ; line simple.csv x=time y=temp ylabel=&quot;T (°C)&quot; y2=&quot;y*1.8+32&quot; y2label=&quot;T (°F)&quot; hline2=80:&quot;80 °F&quot; title=&quot;y2=&quot; --size=8x3.6in</desc>
+<rect width="576" height="259.2" fill="#ffffff"/>
+<path d="M81.23 10L101.23 10" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="106.23" y="13.29" font-size="10" text-anchor="start">temp</text>
+<path d="M145.92 10L165.92 10" fill="none" stroke="#e69f00" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+<text x="170.92" y="13.29" font-size="10" text-anchor="start">pressure</text>
+<clipPath id="plot0"><rect x="31.91" y="42.96" width="213.06" height="187.05"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M31.91 109.54H244.97" fill="none" stroke="#000000" stroke-opacity="0.6" stroke-width="0.75" stroke-dasharray="3 1.88"/>
+<path d="M31.91 174.68L37.37 154.45L42.84 135.4L48.3 118.59L53.76 105L59.23 95.35L64.69 90.18L70.15 89.68L75.62 93.82L81.08 102.23L86.54 114.3L92.01 129.18L97.47 145.85L102.93 163.2L108.39 180.03L113.86 195.21L119.32 207.71L124.78 216.64L130.25 221.38L135.71 221.5L141.17 216.95L146.64 207.87L152.1 194.76L157.56 178.32L163.03 159.51L168.49 139.38L173.95 119.08L179.42 99.81L184.88 82.64L190.34 68.58L195.81 58.37L201.27 52.58L206.73 51.46L212.2 55L217.66 62.88L223.12 74.49L228.59 89.06L234.05 105.57L239.51 122.89L244.97 139.86" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M31.91 51.46L37.37 56.83L42.84 66.56L48.3 80.21L53.76 96.33L59.23 113.75L64.69 130.6L70.15 145.41L75.62 157.03L81.08 164.29L86.54 166.9L92.01 164.72L97.47 158.33L102.93 148.89L108.39 137.71L113.86 126.24L119.32 116.08L124.78 108.82L130.25 105.48L135.71 106.64L141.17 112.74L146.64 123.19L152.1 137.28L157.56 153.69L163.03 171.11L168.49 187.67L173.95 202.19L179.42 213.08L184.88 219.76L190.34 221.5L195.81 218.74L201.27 211.77L206.73 202.04L212.2 190.72L217.66 179.39L223.12 169.51L228.59 162.83L234.05 160.08L239.51 162.11L244.97 168.79" fill="none" stroke="#e69f00" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+</g>
+<g fill="#000000" fill-opacity="0.8">
+<text x="241.97" y="106.54" font-size="9" text-anchor="end">limit</text>
+</g>
+<rect x="31.91" y="42.96" width="213.06" height="187.05" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M31.91 230v-3.5M31.91 42.96v3.5M141.17 230v-3.5M141.17 42.96v3.5M31.91 174.68h3.5M31.91 99.05h3.5M244.97 211.19h-3.5M244.97 138.58h-3.5M244.97 65.98h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M53.76 230v-2M53.76 42.96v2M75.62 230v-2M75.62 42.96v2M97.47 230v-2M97.47 42.96v2M119.32 230v-2M119.32 42.96v2M163.03 230v-2M163.03 42.96v2M184.88 230v-2M184.88 42.96v2M206.73 230v-2M206.73 42.96v2M228.59 230v-2M228.59 42.96v2M31.91 220.05h2M31.91 204.92h2M31.91 189.8h2M31.91 159.55h2M31.91 144.43h2M31.91 129.3h2M31.91 114.18h2M31.91 83.93h2M31.91 68.81h2M31.91 53.68h2M244.97 225.71h-2M244.97 196.67h-2M244.97 182.15h-2M244.97 167.63h-2M244.97 153.11h-2M244.97 124.06h-2M244.97 109.54h-2M244.97 95.02h-2M244.97 80.5h-2M244.97 51.46h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="31.91" y="239.41" font-size="9" text-anchor="middle">0</text>
+<text x="141.17" y="239.41" font-size="9" text-anchor="middle">10</text>
+<g fill="#0072b2">
+<text x="28.41" y="177.63" font-size="9" text-anchor="end">20</text>
+<text x="28.41" y="102.01" font-size="9" text-anchor="end">25</text>
+</g>
+<g fill="#e69f00">
+<text x="248.47" y="214.15" font-size="9" text-anchor="start">100.5</text>
+<text x="248.47" y="141.54" font-size="9" text-anchor="start">101.0</text>
+<text x="248.47" y="68.94" font-size="9" text-anchor="start">101.5</text>
+</g>
+<text x="138.44" y="252.3" font-size="10" text-anchor="middle">time</text>
+<g fill="#0072b2">
+<g transform="translate(11.9 136.48) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">temp</text></g>
+</g>
+<g fill="#e69f00">
+<g transform="translate(280.62 136.48) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">pressure</text></g>
+</g>
+<text x="138.44" y="30.73" font-size="11" text-anchor="middle">axis=left,right</text>
+<clipPath id="plot1"><rect x="319.91" y="42.96" width="224.18" height="187.05"/></clipPath>
+<g clip-path="url(#plot1)">
+<path d="M319.91 73.85H544.09" fill="none" stroke="#000000" stroke-opacity="0.6" stroke-width="0.75" stroke-dasharray="3 1.88"/>
+<path d="M319.91 174.68L325.66 154.45L331.41 135.4L337.15 118.59L342.9 105L348.65 95.35L354.4 90.18L360.15 89.68L365.9 93.82L371.64 102.23L377.39 114.3L383.14 129.18L388.89 145.85L394.64 163.2L400.38 180.03L406.13 195.21L411.88 207.71L417.63 216.64L423.38 221.38L429.13 221.5L434.87 216.95L440.62 207.87L446.37 194.76L452.12 178.32L457.87 159.51L463.62 139.38L469.36 119.08L475.11 99.81L480.86 82.64L486.61 68.58L492.36 58.37L498.1 52.58L503.85 51.46L509.6 55L515.35 62.88L521.1 74.49L526.85 89.06L532.59 105.57L538.34 122.89L544.09 139.86" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g fill="#000000" fill-opacity="0.8">
+<text x="541.09" y="70.85" font-size="9" text-anchor="end">80 °F</text>
+</g>
+<rect x="319.91" y="42.96" width="224.18" height="187.05" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M319.91 230v-3.5M319.91 42.96v3.5M434.87 230v-3.5M434.87 42.96v3.5M319.91 174.68h3.5M319.91 99.05h3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M342.9 230v-2M342.9 42.96v2M365.9 230v-2M365.9 42.96v2M388.89 230v-2M388.89 42.96v2M411.88 230v-2M411.88 42.96v2M457.87 230v-2M457.87 42.96v2M480.86 230v-2M480.86 42.96v2M503.85 230v-2M503.85 42.96v2M526.85 230v-2M526.85 42.96v2M319.91 220.05h2M319.91 204.92h2M319.91 189.8h2M319.91 159.55h2M319.91 144.43h2M319.91 129.3h2M319.91 114.18h2M319.91 83.93h2M319.91 68.81h2M319.91 53.68h2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<path d="M544.09 157.87h-3.5M544.09 73.85h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M544.09 225.09h-2M544.09 208.28h-2M544.09 191.48h-2M544.09 174.68h-2M544.09 141.07h-2M544.09 124.26h-2M544.09 107.46h-2M544.09 90.65h-2M544.09 57.04h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="547.59" y="76.8" font-size="9" text-anchor="start">80</text>
+<text x="547.59" y="160.83" font-size="9" text-anchor="start">70</text>
+<text x="319.91" y="239.41" font-size="9" text-anchor="middle">0</text>
+<text x="434.87" y="239.41" font-size="9" text-anchor="middle">10</text>
+<text x="316.41" y="177.63" font-size="9" text-anchor="end">20</text>
+<text x="316.41" y="102.01" font-size="9" text-anchor="end">25</text>
+<text x="432" y="252.3" font-size="10" text-anchor="middle">time</text>
+<g transform="translate(299.9 136.48) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">T (°C)</text></g>
+<g transform="translate(568.62 136.48) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">T (°F)</text></g>
+<text x="432" y="30.73" font-size="11" text-anchor="middle">y2=</text>
+</svg>

@@ -1,0 +1,52 @@
+[
+ {
+  "t": 0,
+  "temp": 19.0,
+  "site": "south"
+ },
+ {
+  "t": 1,
+  "temp": 19.4,
+  "site": "north"
+ },
+ {
+  "t": 2,
+  "temp": 19.8,
+  "site": "south"
+ },
+ {
+  "t": 3,
+  "temp": 20.2,
+  "site": "north"
+ },
+ {
+  "t": 4,
+  "temp": 20.6,
+  "site": "south"
+ },
+ {
+  "t": 5,
+  "temp": 21.0,
+  "site": "north"
+ },
+ {
+  "t": 6,
+  "temp": 21.4,
+  "site": "south"
+ },
+ {
+  "t": 7,
+  "temp": 21.8,
+  "site": "north"
+ },
+ {
+  "t": 8,
+  "temp": 22.2,
+  "site": "south"
+ },
+ {
+  "t": 9,
+  "temp": 22.6,
+  "site": "north"
+ }
+]

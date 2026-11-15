@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>hist samples.csv y=height where=&quot;site == 'north'&quot; label=north + samples.csv y=height where=&quot;site == 'south'&quot; label=south bins=12</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="27.45" y="7.96" width="397.55" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M60.58 258.8H93.71V211.02H60.58ZM126.84 258.8H159.97V211.02H126.84ZM226.23 258.8H259.36V163.24H226.23ZM259.36 258.8H292.49V19.9H259.36ZM292.49 258.8H325.61V163.24H292.49ZM325.61 258.8H358.74V115.46H325.61ZM358.74 258.8H391.87V115.46H358.74ZM391.87 258.8H425V115.46H391.87Z" fill="#0072b2" stroke="#0072b2" stroke-width="0.4" fill-opacity="0.5"/>
+<path d="M27.45 258.8H60.58V211.02H27.45ZM60.58 258.8H93.71V163.24H60.58ZM93.71 258.8H126.84V163.24H93.71ZM126.84 258.8H159.97V163.24H126.84ZM159.97 258.8H193.1V163.24H159.97ZM193.1 258.8H226.23V163.24H193.1ZM259.36 258.8H292.49V19.9H259.36ZM292.49 258.8H325.61V115.46H292.49ZM325.61 258.8H358.74V211.02H325.61Z" fill="#e69f00" stroke="#e69f00" stroke-width="0.4" fill-opacity="0.5"/>
+</g>
+<rect x="27.45" y="7.96" width="397.55" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M30.65 258.8v-3.5M30.65 7.96v3.5M110.48 258.8v-3.5M110.48 7.96v3.5M190.3 258.8v-3.5M190.3 7.96v3.5M270.13 258.8v-3.5M270.13 7.96v3.5M349.96 258.8v-3.5M349.96 7.96v3.5M27.45 258.8h3.5M425 258.8h-3.5M27.45 211.02h3.5M425 211.02h-3.5M27.45 163.24h3.5M425 163.24h-3.5M27.45 115.46h3.5M425 115.46h-3.5M27.45 67.68h3.5M425 67.68h-3.5M27.45 19.9h3.5M425 19.9h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M46.61 258.8v-2M46.61 7.96v2M62.58 258.8v-2M62.58 7.96v2M78.55 258.8v-2M78.55 7.96v2M94.51 258.8v-2M94.51 7.96v2M126.44 258.8v-2M126.44 7.96v2M142.41 258.8v-2M142.41 7.96v2M158.37 258.8v-2M158.37 7.96v2M174.34 258.8v-2M174.34 7.96v2M206.27 258.8v-2M206.27 7.96v2M222.24 258.8v-2M222.24 7.96v2M238.2 258.8v-2M238.2 7.96v2M254.17 258.8v-2M254.17 7.96v2M286.1 258.8v-2M286.1 7.96v2M302.06 258.8v-2M302.06 7.96v2M318.03 258.8v-2M318.03 7.96v2M334 258.8v-2M334 7.96v2M365.93 258.8v-2M365.93 7.96v2M381.89 258.8v-2M381.89 7.96v2M397.86 258.8v-2M397.86 7.96v2M413.82 258.8v-2M413.82 7.96v2M27.45 249.25h2M425 249.25h-2M27.45 239.69h2M425 239.69h-2M27.45 230.13h2M425 230.13h-2M27.45 220.58h2M425 220.58h-2M27.45 201.47h2M425 201.47h-2M27.45 191.91h2M425 191.91h-2M27.45 182.35h2M425 182.35h-2M27.45 172.8h2M425 172.8h-2M27.45 153.69h2M425 153.69h-2M27.45 144.13h2M425 144.13h-2M27.45 134.57h2M425 134.57h-2M27.45 125.02h2M425 125.02h-2M27.45 105.91h2M425 105.91h-2M27.45 96.35h2M425 96.35h-2M27.45 86.79h2M425 86.79h-2M27.45 77.24h2M425 77.24h-2M27.45 58.13h2M425 58.13h-2M27.45 48.57h2M425 48.57h-2M27.45 39.01h2M425 39.01h-2M27.45 29.46h2M425 29.46h-2M27.45 10.35h2M425 10.35h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="30.65" y="268.21" font-size="9" text-anchor="middle">155</text>
+<text x="110.48" y="268.21" font-size="9" text-anchor="middle">160</text>
+<text x="190.3" y="268.21" font-size="9" text-anchor="middle">165</text>
+<text x="270.13" y="268.21" font-size="9" text-anchor="middle">170</text>
+<text x="349.96" y="268.21" font-size="9" text-anchor="middle">175</text>
+<text x="23.95" y="261.76" font-size="9" text-anchor="end">0</text>
+<text x="23.95" y="213.98" font-size="9" text-anchor="end">1</text>
+<text x="23.95" y="166.2" font-size="9" text-anchor="end">2</text>
+<text x="23.95" y="118.42" font-size="9" text-anchor="end">3</text>
+<text x="23.95" y="70.64" font-size="9" text-anchor="end">4</text>
+<text x="23.95" y="22.86" font-size="9" text-anchor="end">5</text>
+<text x="226.23" y="281.1" font-size="10" text-anchor="middle">height</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">Count</text></g>
+<rect x="362.29" y="13.96" width="56.71" height="33.25" fill="#ffffff" fill-opacity="0.85" stroke="#bfbfbf" stroke-width="0.5"/>
+<rect x="369.29" y="19.46" width="14" height="7" fill="#0072b2" fill-opacity="0.5"/>
+<text x="391.29" y="26.24" font-size="10" text-anchor="start">north</text>
+<rect x="369.29" y="32.96" width="14" height="7" fill="#e69f00" fill-opacity="0.5"/>
+<text x="391.29" y="39.74" font-size="10" text-anchor="start">south</text>
+</svg>

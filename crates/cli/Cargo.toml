@@ -1,0 +1,19 @@
+[package]
+name = "easyplots-cli"
+description = "The `easyplots` terminal command"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+publish.workspace = true
+
+[lib]
+name = "easyplots_cli"
+path = "src/lib.rs"
+
+[[bin]]
+name = "easyplots"
+path = "src/main.rs"
+
+[dependencies]
+easyplots-core.workspace = true
+serde_json = "1"

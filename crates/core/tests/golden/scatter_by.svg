@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'Source Sans 3'" fill="#262626">
+<desc>scatter garden.csv x=width y=yield err=yield_sd by=bed color=blue,gray,orange corr=spearman --theme=light</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="35.45" y="7.97" width="389.55" height="246.43"/></clipPath>
+<path d="M61.35 7.97V254.4M170.65 7.97V254.4M279.96 7.97V254.4M389.26 7.97V254.4M35.45 239.73H425M35.45 196.4H425M35.45 153.07H425M35.45 109.74H425M35.45 66.4H425M35.45 23.07H425" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot0)">
+<path d="M248.8 112.34V75.07M246.64 112.34h4.32M246.64 75.07h4.32M326.41 128.8V56.87M324.25 128.8h4.32M324.25 56.87h4.32M407.29 97.17V46.04M405.13 97.17h4.32M405.13 46.04h4.32M246.62 124.9V69.44M244.46 124.9h4.32M244.46 69.44h4.32M205.63 90.24V19.17M203.47 90.24h4.32M203.47 19.17h4.32M135.68 93.27V36.07M133.52 93.27h4.32M133.52 36.07h4.32M222.57 115.37V53.84M220.41 115.37h4.32M220.41 53.84h4.32M251.54 73.77V35.64M249.38 73.77h4.32M249.38 35.64h4.32M218.75 176.9V147.43M216.59 176.9h4.32M216.59 147.43h4.32" fill="none" stroke="#1f77b4" stroke-width="1.05"/>
+<path d="M246.4 93.7a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM324.01 92.84a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM404.89 71.6a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM244.22 97.17a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM203.23 54.7a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM133.28 64.67a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM220.17 84.6a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM249.14 54.7a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0ZM216.35 162.17a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0Z" fill="#1f77b4" stroke="none"/>
+<path d="M53.15 165.63V130.97M50.99 165.63h4.32M50.99 130.97h4.32M293.62 104.54V53.4M291.46 104.54h4.32M291.46 53.4h4.32M157.54 183.4V124.47M155.38 183.4h4.32M155.38 124.47h4.32M53.15 173.87V138.33M50.99 173.87h4.32M50.99 138.33h4.32M182.13 180.37V152.63M179.97 180.37h4.32M179.97 152.63h4.32M53.15 199.87V127.07M50.99 199.87h4.32M50.99 127.07h4.32M219.84 207.23V155.23M217.68 207.23h4.32M217.68 155.23h4.32M128.03 195.53V77.67M125.87 195.53h4.32M125.87 77.67h4.32" fill="none" stroke="#7f7f7f" stroke-width="1.05"/>
+<path d="M51.04 146.19h4.22v4.22h-4.22ZM291.51 76.86h4.22v4.22h-4.22ZM155.42 151.82h4.22v4.22h-4.22ZM51.04 153.99h4.22v4.22h-4.22ZM180.02 164.39h4.22v4.22h-4.22ZM51.04 161.36h4.22v4.22h-4.22ZM217.73 179.12h4.22v4.22h-4.22ZM125.91 134.49h4.22v4.22h-4.22Z" fill="#7f7f7f" stroke="none"/>
+<path d="M53.15 243.2V181.67M50.99 243.2h4.32M50.99 181.67h4.32M53.15 218.93V189.47M50.99 218.93h4.32M50.99 189.47h4.32M69.55 188.6V165.2M67.39 188.6h4.32M67.39 165.2h4.32M53.15 205.07V166.93M50.99 205.07h4.32M50.99 166.93h4.32M53.15 148.73V101.07M50.99 148.73h4.32M50.99 101.07h4.32M351 227.6V160.87M348.84 227.6h4.32M348.84 160.87h4.32M191.42 203.33V85.47M189.26 203.33h4.32M189.26 85.47h4.32" fill="none" stroke="#ff7f0e" stroke-width="1.05"/>
+<path d="M53.15 209.67L55.55 214.23L50.75 214.23ZM53.15 201.44L55.55 206L50.75 206ZM69.55 174.14L71.95 178.7L67.15 178.7ZM53.15 183.24L55.55 187.8L50.75 187.8ZM53.15 122.14L55.55 126.7L50.75 126.7ZM351 191.47L353.4 196.03L348.6 196.03ZM191.42 141.64L193.82 146.2L189.02 146.2Z" fill="#ff7f0e" stroke="none"/>
+</g>
+<text x="419" y="248.4" font-size="9" text-anchor="end"><tspan font-style="italic">r</tspan><tspan dy="1.8" font-size="6.3" font-style="italic">s</tspan><tspan dy="-1.8"> = 0.50 (all)</tspan></text>
+<path d="M35.45 7.97V254.4H425" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M61.35 254.4v3.5M170.65 254.4v3.5M279.96 254.4v3.5M389.26 254.4v3.5M35.45 239.73h-3.5M35.45 196.4h-3.5M35.45 153.07h-3.5M35.45 109.74h-3.5M35.45 66.4h-3.5M35.45 23.07h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="61.35" y="267.34" font-size="9" text-anchor="middle">200</text>
+<text x="170.65" y="267.34" font-size="9" text-anchor="middle">400</text>
+<text x="279.96" y="267.34" font-size="9" text-anchor="middle">600</text>
+<text x="389.26" y="267.34" font-size="9" text-anchor="middle">800</text>
+<text x="28.45" y="242.7" font-size="9" text-anchor="end">20</text>
+<text x="28.45" y="199.37" font-size="9" text-anchor="end">30</text>
+<text x="28.45" y="156.04" font-size="9" text-anchor="end">40</text>
+<text x="28.45" y="112.71" font-size="9" text-anchor="end">50</text>
+<text x="28.45" y="69.37" font-size="9" text-anchor="end">60</text>
+<text x="28.45" y="26.04" font-size="9" text-anchor="end">70</text>
+<text x="230.22" y="279.8" font-size="10" text-anchor="middle">width</text>
+<g transform="translate(11.93 131.19) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">yield</text></g>
+<rect x="41.45" y="13.97" width="67.65" height="46.75" fill="#ffffff" fill-opacity="0.85" stroke="#e6e6e6" stroke-width="0.5"/>
+<path d="M55.45 18.47V27.47" stroke="#1f77b4" stroke-width="1.05"/>
+<path d="M53.05 22.97a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0Z" fill="#1f77b4" stroke="none"/>
+<text x="70.45" y="26.27" font-size="10" text-anchor="start">Shade</text>
+<path d="M55.45 31.97V40.97" stroke="#7f7f7f" stroke-width="1.05"/>
+<path d="M53.33 34.36h4.22v4.22h-4.22Z" fill="#7f7f7f" stroke="none"/>
+<text x="70.45" y="39.77" font-size="10" text-anchor="start">Part sun</text>
+<path d="M55.45 45.47V54.47" stroke="#ff7f0e" stroke-width="1.05"/>
+<path d="M55.45 47.21L57.85 51.77L53.05 51.77Z" fill="#ff7f0e" stroke="none"/>
+<text x="70.45" y="53.27" font-size="10" text-anchor="start">Full sun</text>
+</svg>

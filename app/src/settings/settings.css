@@ -1,0 +1,165 @@
+/* The settings window: tabs on top, one row per option, saved as you go. */
+body { display: flex; flex-direction: column; height: 100vh; accent-color: var(--accent); }
+nav {
+  display: flex;
+  gap: 4px;
+  padding: 10px 16px 0;
+  border-bottom: 1px solid var(--border);
+}
+nav button {
+  border: none;
+  background: none;
+  color: var(--muted);
+  padding: 6px 12px 8px;
+  font: inherit;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+}
+/* Tabs stay plain: no box on hover (the general button:hover rule is more specific than
+   `nav button`), no focus glow after a click (WebKit's ring looked like a shadow). The
+   active tab is the accent colour with an underline; keyboard focus is a faint underline. */
+nav button, nav button:hover, nav button:focus, nav button:focus-visible {
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  box-shadow: none;
+}
+nav button:hover { color: var(--fg); border-bottom-color: transparent; }
+nav button:focus-visible:not(.active) { border-bottom-color: var(--border); }
+nav button.active,
+nav button.active:hover { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+main { flex: 1; overflow-y: auto; padding: 8px 20px 16px; }
+.row {
+  display: grid;
+  grid-template-columns: 190px 1fr;
+  gap: 4px 16px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+  align-items: center;
+}
+.row:last-child { border-bottom: none; }
+.row label { font-weight: 500; }
+.row .help { grid-column: 2; color: var(--muted); font-size: 12px; }
+.row .error { grid-column: 2; color: var(--error); font-size: 12px; }
+.row .saved { color: var(--accent); font-size: 12px; margin-left: 8px; }
+.control { display: flex; align-items: center; gap: 8px; }
+input[type="text"], input[type="number"], select {
+  font: inherit;
+  color: var(--fg);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 4px 8px;
+  min-width: 0;
+}
+input[type="text"] { width: 100%; max-width: 320px; }
+input[type="number"] { width: 90px; }
+input[type="range"] { width: 160px; }
+input.hotkey { cursor: pointer; text-align: center; max-width: 200px; }
+input.hotkey.recording { border-color: var(--accent); background: var(--selected); }
+select.suggest { width: 44px; padding: 4px 2px; }
+button {
+  font: inherit;
+  color: var(--fg);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 4px 10px;
+  cursor: pointer;
+}
+button:hover { border-color: var(--accent); }
+.presets li { display: flex; gap: 12px; align-items: baseline; padding: 6px 0; border-bottom: 1px solid var(--border); }
+.presets ul { list-style: none; padding: 0; margin: 8px 0; }
+.presets code { color: var(--muted); font-size: 12px; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.presets h3 { font-size: 13px; margin: 14px 0 2px; }
+.presets .name { font-weight: 500; min-width: 110px; }
+code { color: var(--accent); }
+.muted { color: var(--muted); font-size: 12px; }
+footer {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+  border-top: 1px solid var(--border);
+}
+.warning { color: var(--error); font-size: 12px; padding: 8px 0; }
+/* Help: FEATURES.md with a search box. */
+.help-search { width: 100%; max-width: none; margin: 8px 0 4px; padding: 6px 10px; }
+.help h2 { font-size: 14px; margin: 18px 0 6px; }
+.help table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+.help th { text-align: left; color: var(--muted); font-weight: 500; }
+.help th, .help td { padding: 4px 8px 4px 0; border-bottom: 1px solid var(--border); vertical-align: top; }
+.help p, .help li { font-size: 12.5px; line-height: 1.5; }
+.help ul { padding-left: 18px; }
+/* The command map (commandmap.ts): three designs, the launcher's lettering, the theme's
+   colours (one per level, from Palette's keys when Palette sets the theme). */
+@font-face { font-family: "JetBrains Mono"; src: url("../fonts/JetBrainsMono-Regular.woff2") format("woff2"); font-weight: 400; }
+@font-face { font-family: "JetBrains Mono"; src: url("../fonts/JetBrainsMono-Bold.woff2") format("woff2"); font-weight: 700; }
+@font-face { font-family: "Symbols Nerd Font"; src: url("../fonts/SymbolsNerdFont.woff2") format("woff2"); }
+:root { --l1: #cc79a7; --l2: #0072b2; --l3: #009e73; --l4: #b07a12; --flag: #2a8a83; }
+@media (prefers-color-scheme: dark) { :root { --l1: #f5c2e7; --l2: #89b4fa; --l3: #a6e3a1; --l4: #f9e2af; --flag: #94e2d5; } }
+.command-map { font: 12px/1.55 "JetBrains Mono", Menlo, monospace; margin: 4px 0 14px; }
+.command-map .nf { font-family: "Symbols Nerd Font"; font-style: normal; }
+.command-map .icon2 { display: inline-block; width: 2ch; text-align: center; }
+.command-map .l1 { color: var(--l1); } .command-map .l2 { color: var(--l2); }
+.command-map .l3 { color: var(--l3); } .command-map .l4 { color: var(--l4); }
+.command-map code.opt { color: var(--fg); background: color-mix(in srgb, var(--fg) 8%, transparent); border-radius: 4px;
+  padding: 0 5px; margin: 2px 4px 2px 0; display: inline-block; white-space: nowrap; font: inherit; }
+.command-map code.opt.flag, .command-map .flag { color: var(--flag); }
+.command-map .hit, .command-map code.opt.hit { background: var(--selected); outline: 1px solid var(--accent); border-radius: 3px; }
+.command-map .example, .command-map .muted { color: var(--muted); }
+.command-map .example b { color: var(--fg); font-weight: 400; }
+.map-switch { display: flex; gap: 6px; margin: 0 0 10px; }
+.map-switch button { font: inherit; padding: 2px 10px; }
+.map-switch button.on { border-color: var(--accent); color: var(--accent); }
+/* Cards: the four levels side by side (two by two in a narrow window). */
+.map-cards, .map-arrows { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+.map-arrows { color: var(--muted); text-align: center; margin-bottom: 4px; font-size: 11px; }
+.map-card { border: 1px solid var(--border); border-top: 3px solid currentColor; border-radius: 8px; padding: 10px; }
+.map-card h3 { margin: 0 0 2px; font-size: 13px; }
+.map-card .sub { color: var(--muted); margin-bottom: 8px; }
+.map-card h4 { margin: 8px 0 3px; font-size: 11px; color: var(--muted); font-weight: 400; }
+.map-card > div:not(.sub):not(.example) { color: var(--fg); }
+@media (max-width: 760px) { .map-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } .map-arrows { display: none; } }
+/* Tree: like a folder tree, options under the level they belong to. */
+.map-tree { border: 1px solid var(--border); border-radius: 8px; padding: 10px 14px; }
+.map-tree ul { list-style: none; margin: 0; padding-left: 20px; border-left: 1px solid var(--border); }
+.map-tree > ul { border-left: none; padding-left: 0; }
+.map-tree li { margin: 5px 0; font-size: inherit; line-height: inherit; }
+.map-tree .node { font-weight: 700; }
+.map-tree .what { color: var(--muted); margin-left: 8px; }
+.map-tree .opts { margin: 2px 0 0 20px; }
+.map-tree .group { color: var(--muted); margin-right: 6px; }
+/* Terminal: box drawing, like the launcher; scrolls sideways when narrow. */
+.map-term { border: 1px solid var(--border); border-radius: 8px; padding: 10px 14px; overflow-x: auto; margin: 0; font: inherit; color: var(--fg); }
+.help mark { background: var(--selected); color: inherit; border-radius: 2px; }
+/* Palette sets the launcher's glass (like Dispatch's Settings → Look). */
+.palette-banner {
+  border: 1px solid color-mix(in srgb, var(--accent) 55%, transparent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin: 10px 0 4px;
+  font-size: 12.5px;
+  line-height: 1.5;
+}
+.palette-banner strong { color: var(--accent); }
+.row .warn-line { grid-column: 2; color: var(--error); font-size: 12px; }
+input:disabled { opacity: 0.55; cursor: not-allowed; }
+
+/* The Try-it tab: lesson cards with a command and its picture. */
+.lesson { margin: 10px 0 18px; }
+.lesson h3 { font-size: 13px; margin: 10px 0 4px; }
+.lesson-command { display: flex; gap: 8px; align-items: center; margin: 6px 0; }
+.lesson-command code {
+  flex: 1; font-size: 12px; padding: 5px 8px; border: 1px solid var(--border);
+  border-radius: 6px; background: var(--bg); overflow-x: auto; white-space: nowrap;
+}
+.lesson-command button { white-space: nowrap; }
+.lesson-picture { max-width: 460px; }
+.lesson-picture svg { width: 100%; height: auto; border: 1px solid var(--border); border-radius: 6px; background: white; }

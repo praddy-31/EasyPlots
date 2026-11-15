@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576pt" height="244.8pt" viewBox="0 0 576 244.8" font-family="'Source Sans 3'" fill="#262626">
+<desc>bar garden.csv x=bed y=yield stat=median values=%.0f+- title=&quot;stat=median values=%.0f+-&quot; ; bar garden.csv x=bed y=yield stat=mean values=%.0f+- title=&quot;stat=mean values=%.0f+-&quot; --size=8x3.4in --theme=light</desc>
+<rect width="576" height="244.8" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="35.45" y="24.47" width="245.55" height="186.73"/></clipPath>
+<path d="M81.49 24.47V211.2M158.22 24.47V211.2M234.96 24.47V211.2M35.45 211.2H281M35.45 155.99H281M35.45 100.79H281M35.45 45.58H281" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot0)">
+<path d="M50.79 211.2H112.18V57.17H50.79ZM127.53 211.2H188.92V102.03H127.53ZM204.26 211.2H265.65V121.77H204.26Z" fill="#0072b2" stroke="none"/>
+<path d="M81.49 62.97V44.48M79.33 62.97h4.32M79.33 44.48h4.32M158.22 107.9V95.89M156.06 107.9h4.32M156.06 95.89h4.32M234.96 130.18V105.62M232.8 130.18h4.32M232.8 105.62h4.32" fill="none" stroke="#262626" stroke-width="1.05"/>
+</g>
+<g fill="#262626" stroke="#ffffff" stroke-width="1.78" stroke-linejoin="round" paint-order="stroke">
+<text x="81.49" y="41.48" font-size="8.1" text-anchor="middle">56 (54–60)</text>
+<text x="158.22" y="92.89" font-size="8.1" text-anchor="middle">40 (37–42)</text>
+<text x="234.96" y="102.62" font-size="8.1" text-anchor="middle">32 (29–38)</text>
+</g>
+<path d="M35.45 24.47V211.2H281" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M81.49 211.2v3.5M158.22 211.2v3.5M234.96 211.2v3.5M35.45 211.2h-3.5M35.45 155.99h-3.5M35.45 100.79h-3.5M35.45 45.58h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="81.49" y="224.14" font-size="9" text-anchor="middle">Shade</text>
+<text x="158.22" y="224.14" font-size="9" text-anchor="middle">Part sun</text>
+<text x="234.96" y="224.14" font-size="9" text-anchor="middle">Full sun</text>
+<text x="28.45" y="214.17" font-size="9" text-anchor="end">0</text>
+<text x="28.45" y="158.96" font-size="9" text-anchor="end">20</text>
+<text x="28.45" y="103.76" font-size="9" text-anchor="end">40</text>
+<text x="28.45" y="48.55" font-size="9" text-anchor="end">60</text>
+<text x="158.22" y="236.6" font-size="10" text-anchor="middle">bed</text>
+<g transform="translate(11.93 117.83) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">yield (median, Q1–Q3)</text></g>
+<text x="158.22" y="12.26" font-size="11" text-anchor="middle">stat=median values=%.0f+-</text>
+<clipPath id="plot1"><rect x="323.45" y="24.47" width="245.55" height="186.73"/></clipPath>
+<path d="M369.49 24.47V211.2M446.22 24.47V211.2M522.96 24.47V211.2M323.45 211.2H569M323.45 158.28H569M323.45 105.37H569M323.45 52.45H569" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot1)">
+<path d="M338.79 211.2H400.18V64.56H338.79ZM415.53 211.2H476.92V102.36H415.53ZM492.26 211.2H553.65V120.33H492.26Z" fill="#0072b2" stroke="none"/>
+<path d="M369.49 84.64V44.48M367.33 84.64h4.32M367.33 44.48h4.32M446.22 121.22V83.49M444.06 121.22h4.32M444.06 83.49h4.32M522.96 139.88V100.79M520.8 139.88h4.32M520.8 100.79h4.32" fill="none" stroke="#262626" stroke-width="1.05"/>
+</g>
+<g fill="#262626" stroke="#ffffff" stroke-width="1.78" stroke-linejoin="round" paint-order="stroke">
+<text x="369.49" y="41.48" font-size="8.1" text-anchor="middle">55 ± 8</text>
+<text x="446.22" y="80.49" font-size="8.1" text-anchor="middle">41 ± 7</text>
+<text x="522.96" y="97.79" font-size="8.1" text-anchor="middle">34 ± 7</text>
+</g>
+<path d="M323.45 24.47V211.2H569" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M369.49 211.2v3.5M446.22 211.2v3.5M522.96 211.2v3.5M323.45 211.2h-3.5M323.45 158.28h-3.5M323.45 105.37h-3.5M323.45 52.45h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="369.49" y="224.14" font-size="9" text-anchor="middle">Shade</text>
+<text x="446.22" y="224.14" font-size="9" text-anchor="middle">Part sun</text>
+<text x="522.96" y="224.14" font-size="9" text-anchor="middle">Full sun</text>
+<text x="316.45" y="214.17" font-size="9" text-anchor="end">0</text>
+<text x="316.45" y="161.25" font-size="9" text-anchor="end">20</text>
+<text x="316.45" y="108.34" font-size="9" text-anchor="end">40</text>
+<text x="316.45" y="55.42" font-size="9" text-anchor="end">60</text>
+<text x="446.22" y="236.6" font-size="10" text-anchor="middle">bed</text>
+<g transform="translate(299.93 117.83) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">yield (mean ± sd)</text></g>
+<text x="446.22" y="12.26" font-size="11" text-anchor="middle">stat=mean values=%.0f+-</text>
+</svg>

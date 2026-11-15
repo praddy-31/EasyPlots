@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>line simple.csv x=time y=temp,pressure legend=out</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="21.86" y="7.96" width="324.28" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M21.86 239.06L30.18 235.46L38.49 232.07L46.81 229.08L55.12 226.66L63.44 224.94L71.75 224.02L80.07 223.93L88.38 224.67L96.7 226.17L105.01 228.32L113.33 230.96L121.64 233.93L129.96 237.02L138.27 240.02L146.59 242.72L154.91 244.94L163.22 246.54L171.53 247.38L179.85 247.4L188.16 246.59L196.48 244.97L204.79 242.64L213.11 239.71L221.43 236.36L229.74 232.78L238.05 229.17L246.37 225.74L254.68 222.68L263 220.18L271.31 218.36L279.63 217.33L287.94 217.13L296.26 217.76L304.57 219.16L312.89 221.23L321.2 223.82L329.52 226.76L337.83 229.84L346.15 232.87" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M21.86 19.36L30.18 19.46L38.49 19.64L46.81 19.89L55.12 20.19L63.44 20.51L71.75 20.83L80.07 21.1L88.38 21.32L96.7 21.45L105.01 21.5L113.33 21.46L121.64 21.34L129.96 21.17L138.27 20.96L146.59 20.75L154.91 20.56L163.22 20.42L171.53 20.36L179.85 20.38L188.16 20.49L196.48 20.69L204.79 20.95L213.11 21.25L221.43 21.58L229.74 21.88L238.05 22.15L246.37 22.36L254.68 22.48L263 22.51L271.31 22.46L279.63 22.33L287.94 22.15L296.26 21.94L304.57 21.73L312.89 21.55L321.2 21.42L329.52 21.37L337.83 21.41L346.15 21.53" fill="none" stroke="#e69f00" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+</g>
+<rect x="21.86" y="7.96" width="324.28" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M21.86 258.8v-3.5M21.86 7.96v3.5M105.01 258.8v-3.5M105.01 7.96v3.5M188.16 258.8v-3.5M188.16 7.96v3.5M271.31 258.8v-3.5M271.31 7.96v3.5M21.86 239.06h3.5M346.15 239.06h-3.5M21.86 185.21h3.5M346.15 185.21h-3.5M21.86 131.37h3.5M346.15 131.37h-3.5M21.86 77.52h3.5M346.15 77.52h-3.5M21.86 23.67h3.5M346.15 23.67h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M38.49 258.8v-2M38.49 7.96v2M55.12 258.8v-2M55.12 7.96v2M71.75 258.8v-2M71.75 7.96v2M88.38 258.8v-2M88.38 7.96v2M121.64 258.8v-2M121.64 7.96v2M138.27 258.8v-2M138.27 7.96v2M154.91 258.8v-2M154.91 7.96v2M171.53 258.8v-2M171.53 7.96v2M204.79 258.8v-2M204.79 7.96v2M221.43 258.8v-2M221.43 7.96v2M238.05 258.8v-2M238.05 7.96v2M254.68 258.8v-2M254.68 7.96v2M287.94 258.8v-2M287.94 7.96v2M304.57 258.8v-2M304.57 7.96v2M321.2 258.8v-2M321.2 7.96v2M337.83 258.8v-2M337.83 7.96v2M21.86 252.53h2M346.15 252.53h-2M21.86 225.6h2M346.15 225.6h-2M21.86 212.14h2M346.15 212.14h-2M21.86 198.68h2M346.15 198.68h-2M21.86 171.75h2M346.15 171.75h-2M21.86 158.29h2M346.15 158.29h-2M21.86 144.83h2M346.15 144.83h-2M21.86 117.9h2M346.15 117.9h-2M21.86 104.44h2M346.15 104.44h-2M21.86 90.98h2M346.15 90.98h-2M21.86 64.05h2M346.15 64.05h-2M21.86 50.59h2M346.15 50.59h-2M21.86 37.13h2M346.15 37.13h-2M21.86 10.2h2M346.15 10.2h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="21.86" y="268.21" font-size="9" text-anchor="middle">0</text>
+<text x="105.01" y="268.21" font-size="9" text-anchor="middle">5</text>
+<text x="188.16" y="268.21" font-size="9" text-anchor="middle">10</text>
+<text x="271.31" y="268.21" font-size="9" text-anchor="middle">15</text>
+<text x="18.36" y="242.02" font-size="9" text-anchor="end">20</text>
+<text x="18.36" y="188.17" font-size="9" text-anchor="end">40</text>
+<text x="18.36" y="134.32" font-size="9" text-anchor="end">60</text>
+<text x="18.36" y="80.47" font-size="9" text-anchor="end">80</text>
+<text x="18.36" y="26.62" font-size="9" text-anchor="end">100</text>
+<text x="184.01" y="281.1" font-size="10" text-anchor="middle">time</text>
+<path d="M356.15 12.96L376.15 12.96" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="381.15" y="16.24" font-size="10" text-anchor="start">temp</text>
+<path d="M356.15 26.46L376.15 26.46" fill="none" stroke="#e69f00" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+<text x="381.15" y="29.74" font-size="10" text-anchor="start">pressure</text>
+</svg>

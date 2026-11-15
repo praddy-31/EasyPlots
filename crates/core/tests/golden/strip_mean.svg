@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'Source Sans 3'" fill="#262626">
+<desc>strip garden.csv x=bed y=depth mean hline=0 ylabel=&quot;Depth (cm)&quot; title=&quot;Depth by bed&quot; --theme=light</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="44.39" y="24.47" width="380.61" height="229.93"/></clipPath>
+<path d="M115.76 24.47V254.4M234.7 24.47V254.4M353.64 24.47V254.4M44.39 235.42H425M44.39 150.1H425M44.39 64.78H425" fill="none" stroke="#e6e6e6" stroke-width="0.6"/>
+<g clip-path="url(#plot0)">
+<path d="M44.39 150.1H425" fill="none" stroke="#262626" stroke-opacity="0.6" stroke-width="0.9" stroke-dasharray="3.6 2.25"/>
+<path d="M78.29 144.41H153.22" fill="none" stroke="#262626" stroke-width="2.7"/>
+<path d="M197.23 133.25H272.16" fill="none" stroke="#262626" stroke-width="2.7"/>
+<path d="M316.17 153.15H391.1" fill="none" stroke="#262626" stroke-width="2.7"/>
+<path d="M113 49.43a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM113 89.52a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM113 63.93a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM113 220.91a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM108.83 133.04a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM117.88 132.18a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM113 237.98a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM113 243.95a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM113 128.77a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#0072b2" stroke="#ffffff" stroke-width="0.66"/>
+<path d="M237.65 155.22a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM236.1 137.3a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM231.94 44.31a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM231.94 238.83a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM231.94 34.92a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM231.94 133.04a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM231.94 153.51a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM231.94 168.87a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#e69f00" stroke="#ffffff" stroke-width="0.66"/>
+<path d="M350.88 39.19a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM350.88 213.23a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM356.59 205.56a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM350.88 203.85a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM350.88 143.27a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM350.88 97.2a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0ZM350.88 169.72a2.76 2.76 0 1 0 5.52 0a2.76 2.76 0 1 0 -5.52 0Z" fill="#009e73" stroke="#ffffff" stroke-width="0.66"/>
+</g>
+<path d="M44.39 24.47V254.4H425" fill="none" stroke="#262626" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M115.76 254.4v3.5M234.7 254.4v3.5M353.64 254.4v3.5M44.39 235.42h-3.5M44.39 150.1h-3.5M44.39 64.78h-3.5" fill="none" stroke="#262626" stroke-width="0.8"/>
+<text x="115.76" y="267.34" font-size="9" text-anchor="middle">Shade</text>
+<text x="234.7" y="267.34" font-size="9" text-anchor="middle">Part sun</text>
+<text x="353.64" y="267.34" font-size="9" text-anchor="middle">Full sun</text>
+<text x="37.39" y="238.39" font-size="9" text-anchor="end">−100</text>
+<text x="37.39" y="153.07" font-size="9" text-anchor="end">0</text>
+<text x="37.39" y="67.75" font-size="9" text-anchor="end">100</text>
+<text x="234.7" y="279.8" font-size="10" text-anchor="middle">bed</text>
+<g transform="translate(11.93 139.44) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">Depth (cm)</text></g>
+<text x="234.7" y="12.26" font-size="11" text-anchor="middle">Depth by bed</text>
+</svg>

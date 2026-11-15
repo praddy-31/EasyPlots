@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>line simple.csv x=time y=temp,&quot;smooth(temp,9)&quot; color=gray,red style=solid,dashed label=raw,smoothed</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="24.07" y="7.96" width="400.93" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M24.07 184.6L34.35 157.49L44.63 131.93L54.91 109.39L65.19 91.16L75.47 78.22L85.75 71.28L96.03 70.61L106.31 76.17L116.59 87.45L126.87 103.63L137.15 123.59L147.43 145.94L157.71 169.21L167.99 191.78L178.27 212.15L188.55 228.9L198.83 240.89L209.11 247.24L219.39 247.4L229.68 241.29L239.96 229.12L250.24 211.54L260.52 189.49L270.8 164.26L281.08 137.26L291.36 110.04L301.64 84.2L311.92 61.18L322.2 42.32L332.48 28.63L342.76 20.86L353.04 19.36L363.32 24.1L373.6 34.67L383.88 50.25L394.16 69.78L404.44 91.93L414.72 115.15L425 137.91" fill="none" stroke="#7f7f7f" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M24.07 134.91L34.35 125.47L44.63 117.73L54.91 111.84L65.19 107.87L75.47 97.08L85.75 91.09L96.03 90.17L106.31 94.23L116.59 102.9L126.87 115.52L137.15 131.17L147.43 148.76L157.71 167.06L167.99 184.82L178.27 200.79L188.55 213.87L198.83 223.11L209.11 227.81L219.39 227.56L229.68 222.24L239.96 212.06L250.24 197.52L260.52 179.4L270.8 158.71L281.08 136.6L291.36 114.33L301.64 93.14L311.92 74.24L322.2 58.66L332.48 47.26L342.76 40.62L353.04 39.02L363.32 42.43L373.6 50.53L383.88 62.67L394.16 67.9L404.44 74.83L414.72 83.28L425 93.01" fill="none" stroke="#d62728" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+</g>
+<rect x="24.07" y="7.96" width="400.93" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M24.07 258.8v-3.5M24.07 7.96v3.5M126.87 258.8v-3.5M126.87 7.96v3.5M229.68 258.8v-3.5M229.68 7.96v3.5M332.48 258.8v-3.5M332.48 7.96v3.5M24.07 235.31h3.5M425 235.31h-3.5M24.07 184.6h3.5M425 184.6h-3.5M24.07 133.9h3.5M425 133.9h-3.5M24.07 83.19h3.5M425 83.19h-3.5M24.07 32.48h3.5M425 32.48h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M44.63 258.8v-2M44.63 7.96v2M65.19 258.8v-2M65.19 7.96v2M85.75 258.8v-2M85.75 7.96v2M106.31 258.8v-2M106.31 7.96v2M147.43 258.8v-2M147.43 7.96v2M167.99 258.8v-2M167.99 7.96v2M188.55 258.8v-2M188.55 7.96v2M209.11 258.8v-2M209.11 7.96v2M250.24 258.8v-2M250.24 7.96v2M270.8 258.8v-2M270.8 7.96v2M291.36 258.8v-2M291.36 7.96v2M311.92 258.8v-2M311.92 7.96v2M353.04 258.8v-2M353.04 7.96v2M373.6 258.8v-2M373.6 7.96v2M394.16 258.8v-2M394.16 7.96v2M414.72 258.8v-2M414.72 7.96v2M24.07 255.59h2M425 255.59h-2M24.07 245.45h2M425 245.45h-2M24.07 225.17h2M425 225.17h-2M24.07 215.03h2M425 215.03h-2M24.07 204.89h2M425 204.89h-2M24.07 194.75h2M425 194.75h-2M24.07 174.46h2M425 174.46h-2M24.07 164.32h2M425 164.32h-2M24.07 154.18h2M425 154.18h-2M24.07 144.04h2M425 144.04h-2M24.07 123.75h2M425 123.75h-2M24.07 113.61h2M425 113.61h-2M24.07 103.47h2M425 103.47h-2M24.07 93.33h2M425 93.33h-2M24.07 73.05h2M425 73.05h-2M24.07 62.91h2M425 62.91h-2M24.07 52.76h2M425 52.76h-2M24.07 42.62h2M425 42.62h-2M24.07 22.34h2M425 22.34h-2M24.07 12.2h2M425 12.2h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="24.07" y="268.21" font-size="9" text-anchor="middle">0</text>
+<text x="126.87" y="268.21" font-size="9" text-anchor="middle">5</text>
+<text x="229.68" y="268.21" font-size="9" text-anchor="middle">10</text>
+<text x="332.48" y="268.21" font-size="9" text-anchor="middle">15</text>
+<text x="20.57" y="238.27" font-size="9" text-anchor="end">17.5</text>
+<text x="20.57" y="187.56" font-size="9" text-anchor="end">20.0</text>
+<text x="20.57" y="136.85" font-size="9" text-anchor="end">22.5</text>
+<text x="20.57" y="86.15" font-size="9" text-anchor="end">25.0</text>
+<text x="20.57" y="35.44" font-size="9" text-anchor="end">27.5</text>
+<text x="224.53" y="281.1" font-size="10" text-anchor="middle">time</text>
+<rect x="30.07" y="13.96" width="74.7" height="33.25" fill="#ffffff" fill-opacity="0.85" stroke="#bfbfbf" stroke-width="0.5"/>
+<path d="M34.07 22.96L54.07 22.96" fill="none" stroke="#7f7f7f" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="59.07" y="26.24" font-size="10" text-anchor="start">raw</text>
+<path d="M34.07 36.46L54.07 36.46" fill="none" stroke="#d62728" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4.62 2"/>
+<text x="59.07" y="39.74" font-size="10" text-anchor="start">smoothed</text>
+</svg>

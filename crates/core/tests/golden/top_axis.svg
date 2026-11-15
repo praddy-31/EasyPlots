@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>line scaling.csv x=n y=quick logx logy x2=&quot;1/n&quot; x2label=&quot;Rate (1/n)&quot; title=&quot;Top axis&quot;</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="40.82" y="48.65" width="384.18" height="210.15"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M58.28 249.25L68.23 243.5L76.11 237.9L84.57 232.42L93.03 227.05L102.39 221.76L110.85 216.56L119.31 211.42L128.08 206.35L136.66 201.33L145.6 196.35L154.36 191.43L162.94 186.54L171.88 181.69L180.49 176.87L189.23 172.09L197.97 167.33L206.7 162.6L215.45 157.89L224.16 153.2L232.91 148.54L241.64 143.89L250.38 139.27L259.1 134.66L267.84 130.07L276.56 125.49L285.3 120.93L294.03 116.38L302.76 111.84L311.49 107.32L320.22 102.8L328.95 98.3L337.69 93.81L346.42 89.33L355.15 84.86L363.88 80.4L372.61 75.94L381.34 71.5L390.07 67.06L398.81 62.63L407.54 58.21" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<rect x="40.82" y="48.65" width="384.18" height="210.15" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M58.28 258.8v-3.5M145.6 258.8v-3.5M232.91 258.8v-3.5M320.22 258.8v-3.5M407.54 258.8v-3.5M40.82 242.03h3.5M425 242.03h-3.5M40.82 201.37h3.5M425 201.37h-3.5M40.82 160.72h3.5M425 160.72h-3.5M40.82 120.06h3.5M425 120.06h-3.5M40.82 79.4h3.5M425 79.4h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M44.76 258.8v-2M49.82 258.8v-2M54.29 258.8v-2M84.57 258.8v-2M99.94 258.8v-2M110.85 258.8v-2M119.31 258.8v-2M126.23 258.8v-2M132.07 258.8v-2M137.13 258.8v-2M141.6 258.8v-2M171.88 258.8v-2M187.26 258.8v-2M198.16 258.8v-2M206.63 258.8v-2M213.54 258.8v-2M219.38 258.8v-2M224.45 258.8v-2M228.91 258.8v-2M259.19 258.8v-2M274.57 258.8v-2M285.48 258.8v-2M293.94 258.8v-2M300.85 258.8v-2M306.7 258.8v-2M311.76 258.8v-2M316.23 258.8v-2M346.51 258.8v-2M361.88 258.8v-2M372.79 258.8v-2M381.25 258.8v-2M388.17 258.8v-2M394.01 258.8v-2M399.08 258.8v-2M403.54 258.8v-2M40.82 258.21h2M425 258.21h-2M40.82 254.27h2M425 254.27h-2M40.82 251.05h2M425 251.05h-2M40.82 248.33h2M425 248.33h-2M40.82 245.97h2M425 245.97h-2M40.82 243.89h2M425 243.89h-2M40.82 229.79h2M425 229.79h-2M40.82 222.63h2M425 222.63h-2M40.82 217.55h2M425 217.55h-2M40.82 213.61h2M425 213.61h-2M40.82 210.39h2M425 210.39h-2M40.82 207.67h2M425 207.67h-2M40.82 205.31h2M425 205.31h-2M40.82 203.23h2M425 203.23h-2M40.82 189.13h2M425 189.13h-2M40.82 181.98h2M425 181.98h-2M40.82 176.9h2M425 176.9h-2M40.82 172.96h2M425 172.96h-2M40.82 169.74h2M425 169.74h-2M40.82 167.02h2M425 167.02h-2M40.82 164.66h2M425 164.66h-2M40.82 162.58h2M425 162.58h-2M40.82 148.48h2M425 148.48h-2M40.82 141.32h2M425 141.32h-2M40.82 136.24h2M425 136.24h-2M40.82 132.3h2M425 132.3h-2M40.82 129.08h2M425 129.08h-2M40.82 126.36h2M425 126.36h-2M40.82 124h2M425 124h-2M40.82 121.92h2M425 121.92h-2M40.82 107.82h2M425 107.82h-2M40.82 100.66h2M425 100.66h-2M40.82 95.58h2M425 95.58h-2M40.82 91.64h2M425 91.64h-2M40.82 88.42h2M425 88.42h-2M40.82 85.7h2M425 85.7h-2M40.82 83.34h2M425 83.34h-2M40.82 81.26h2M425 81.26h-2M40.82 67.17h2M425 67.17h-2M40.82 60.01h2M425 60.01h-2M40.82 54.93h2M425 54.93h-2M40.82 50.99h2M425 50.99h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<path d="M407.54 48.65v3.5M320.22 48.65v3.5M232.91 48.65v3.5M145.6 48.65v3.5M58.28 48.65v3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M421.06 48.65v2M416 48.65v2M411.53 48.65v2M381.25 48.65v2M365.88 48.65v2M354.97 48.65v2M346.51 48.65v2M339.59 48.65v2M333.75 48.65v2M328.69 48.65v2M324.22 48.65v2M293.94 48.65v2M278.56 48.65v2M267.66 48.65v2M259.19 48.65v2M252.28 48.65v2M246.44 48.65v2M241.37 48.65v2M236.91 48.65v2M206.63 48.65v2M191.25 48.65v2M180.34 48.65v2M171.88 48.65v2M164.97 48.65v2M159.12 48.65v2M154.06 48.65v2M149.59 48.65v2M119.31 48.65v2M103.94 48.65v2M93.03 48.65v2M84.57 48.65v2M77.65 48.65v2M71.81 48.65v2M66.74 48.65v2M62.28 48.65v2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="58.28" y="43.87" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">−1</tspan></text>
+<text x="145.6" y="43.87" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">−2</tspan></text>
+<text x="232.91" y="43.87" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">−3</tspan></text>
+<text x="320.22" y="43.87" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">−4</tspan></text>
+<text x="407.54" y="43.87" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">−5</tspan></text>
+<text x="232.91" y="31.08" font-size="10" text-anchor="middle">Rate (1/n)</text>
+<text x="58.28" y="268.21" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">1</tspan></text>
+<text x="145.6" y="268.21" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">2</tspan></text>
+<text x="232.91" y="268.21" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">3</tspan></text>
+<text x="320.22" y="268.21" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">4</tspan></text>
+<text x="407.54" y="268.21" font-size="9" text-anchor="middle"><tspan>10</tspan><tspan dy="-3.42" font-size="6.3">5</tspan></text>
+<text x="37.32" y="244.99" font-size="9" text-anchor="end">0.1</text>
+<text x="37.32" y="204.33" font-size="9" text-anchor="end">1</text>
+<text x="37.32" y="163.67" font-size="9" text-anchor="end">10</text>
+<text x="37.32" y="123.02" font-size="9" text-anchor="end">100</text>
+<text x="37.32" y="82.36" font-size="9" text-anchor="end">1000</text>
+<text x="232.91" y="281.1" font-size="10" text-anchor="middle">n</text>
+<g transform="translate(11.9 153.73) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">quick</text></g>
+<text x="232.91" y="12.23" font-size="11" text-anchor="middle">Top axis</text>
+</svg>

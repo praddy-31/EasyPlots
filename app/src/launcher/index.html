@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>EasyPlots</title>
+    <link rel="stylesheet" href="./launcher.css" />
+  </head>
+  <body>
+    <div class="panel" id="panel">
+      <div class="crumb" id="crumb"></div>
+      <div class="bar">
+        <span class="nf prompt-icon" id="prompt-icon" aria-hidden="true"></span>
+        <span class="stage" id="stage">file</span>
+        <span class="sep" aria-hidden="true">›</span>
+        <div class="field">
+          <div class="mirror" id="mirror" aria-hidden="true"></div>
+          <textarea id="query" rows="1" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" writingsuggestions="false" aria-label="Search or command"></textarea>
+        </div>
+        <span class="nf pin" id="pin" title="pinned: stays open (⌘P or esc to unpin)" hidden>&#xf08d;</span>
+      </div>
+      <div class="error" id="error" hidden>
+        <span class="nf" aria-hidden="true">&#xf071;</span>
+        <div id="error-text"></div>
+      </div>
+      <div class="results">
+        <ul id="list" role="listbox"></ul>
+        <img id="live" alt="" hidden />
+        <div id="peek" hidden></div>
+      </div>
+      <div class="grid" id="grid" hidden></div>
+      <div class="preview" id="preview" hidden>
+        <img id="plot" alt="Plot preview" />
+        <div class="advice" id="advice" hidden></div>
+        <div class="status" id="status"></div>
+      </div>
+      <footer id="footer">
+        <span id="hints"></span>
+        <span id="warning" class="warning"></span>
+      </footer>
+    </div>
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>

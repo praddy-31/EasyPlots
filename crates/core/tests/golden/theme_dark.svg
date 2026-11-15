@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'Source Sans 3'" fill="#e6e6e6">
+<desc>line run_a.csv x=t y=temp label=&quot;Run A&quot; + run_b.csv x=t y=temp label=&quot;Run B&quot; --theme=dark</desc>
+<rect width="432" height="288" fill="#1e1e1e"/>
+<clipPath id="plot0"><rect x="42.16" y="7.97" width="382.84" height="246.43"/></clipPath>
+<path d="M42.16 7.97V254.4M121.92 7.97V254.4M201.68 7.97V254.4M281.44 7.97V254.4M361.19 7.97V254.4M42.16 237.32H425M42.16 194.12H425M42.16 150.92H425M42.16 107.72H425M42.16 64.52H425M42.16 21.31H425" fill="none" stroke="#3a3a3a" stroke-width="0.6"/>
+<g clip-path="url(#plot0)">
+<path d="M42.16 237.32L58.11 214.15L74.06 204.33L90.02 208.97L105.97 215.84L121.92 210.69L137.87 190.3L153.82 165.49L169.77 151.11L185.72 152.44L201.68 160.32L217.63 159.56L233.58 142.92L249.53 117.74L265.48 99.23L281.44 96.49L297.39 104.05L313.34 107.04L329.29 94.77L345.24 70.56L361.19 48.74L377.14 41.41L393.1 47.39L409.05 53.21L425 45.61" fill="none" stroke="#3d9ce0" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M42.16 237.32L58.11 235.77L74.06 242.78L90.02 243.2L105.97 227.89L121.92 202.17L137.87 180.99L153.82 175.04L169.77 181.09L185.72 184.81L201.68 174.06L217.63 149.99L233.58 125.97L249.53 115.37L265.48 119.17L281.44 125.17L297.39 119.09L313.34 97.78L329.29 72.12L345.24 56.93L361.19 57.47L377.14 64.48L393.1 62.79L409.05 45.21L425 19.17" fill="none" stroke="#e69f00" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="5.55 2.4"/>
+</g>
+<path d="M42.16 7.97V254.4H425" fill="none" stroke="#e6e6e6" stroke-width="0.8" stroke-linecap="square"/>
+<path d="M42.16 254.4v3.5M121.92 254.4v3.5M201.68 254.4v3.5M281.44 254.4v3.5M361.19 254.4v3.5M42.16 237.32h-3.5M42.16 194.12h-3.5M42.16 150.92h-3.5M42.16 107.72h-3.5M42.16 64.52h-3.5M42.16 21.31h-3.5" fill="none" stroke="#e6e6e6" stroke-width="0.8"/>
+<text x="42.16" y="267.34" font-size="9" text-anchor="middle">0</text>
+<text x="121.92" y="267.34" font-size="9" text-anchor="middle">5</text>
+<text x="201.68" y="267.34" font-size="9" text-anchor="middle">10</text>
+<text x="281.44" y="267.34" font-size="9" text-anchor="middle">15</text>
+<text x="361.19" y="267.34" font-size="9" text-anchor="middle">20</text>
+<text x="35.16" y="240.29" font-size="9" text-anchor="end">20.0</text>
+<text x="35.16" y="197.09" font-size="9" text-anchor="end">22.5</text>
+<text x="35.16" y="153.89" font-size="9" text-anchor="end">25.0</text>
+<text x="35.16" y="110.69" font-size="9" text-anchor="end">27.5</text>
+<text x="35.16" y="67.49" font-size="9" text-anchor="end">30.0</text>
+<text x="35.16" y="24.28" font-size="9" text-anchor="end">32.5</text>
+<text x="233.58" y="279.8" font-size="10" text-anchor="middle">t</text>
+<g transform="translate(11.93 131.19) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">temp</text></g>
+<rect x="48.16" y="13.97" width="57.48" height="33.25" fill="#1e1e1e" fill-opacity="0.85" stroke="#3a3a3a" stroke-width="0.5"/>
+<path d="M52.16 22.97L72.16 22.97" fill="none" stroke="#3d9ce0" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="77.16" y="26.27" font-size="10" text-anchor="start">Run A</text>
+<path d="M52.16 36.47L72.16 36.47" fill="none" stroke="#e69f00" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="5.55 2.4"/>
+<text x="77.16" y="39.77" font-size="10" text-anchor="start">Run B</text>
+</svg>

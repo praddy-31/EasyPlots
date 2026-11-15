@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>line simple.csv x=time y=temp hline=20:&quot;limit&quot; span=5:8:&quot;heating&quot; vline=12:&quot;switch&quot; arrow=&quot;peak&quot;@3.5,25.6 note=&quot;start&quot;@0.5,20.3 arrow=&quot;low&quot;@9.3,16.9</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="38.57" y="7.96" width="386.43" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M137.65 7.96H197.11V258.8H137.65Z" fill="#000000" fill-opacity="0.1" stroke="none"/>
+<path d="M276.37 7.96V258.8M38.57 184.6H425" fill="none" stroke="#000000" stroke-opacity="0.6" stroke-width="0.75" stroke-dasharray="3 1.88"/>
+<path d="M38.57 184.6L48.48 157.49L58.39 131.93L68.3 109.39L78.2 91.16L88.11 78.22L98.02 71.28L107.93 70.61L117.84 76.17L127.75 87.45L137.65 103.63L147.56 123.59L157.47 145.94L167.38 169.21L177.29 191.78L187.2 212.15L197.11 228.9L207.01 240.89L216.92 247.24L226.83 247.4L236.74 241.29L246.65 229.12L256.56 211.54L266.46 189.49L276.37 164.26L286.28 137.26L296.19 110.04L306.1 84.2L316.01 61.18L325.92 42.32L335.82 28.63L345.73 20.86L355.64 19.36L365.55 24.1L375.46 34.67L385.37 50.25L395.27 69.78L405.18 91.93L415.09 115.15L425 137.91" fill="none" stroke="#0072b2" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g fill="#000000" fill-opacity="0.8">
+<text x="422" y="181.6" font-size="9" text-anchor="end">limit</text>
+<text x="167.38" y="16.87" font-size="9" text-anchor="middle">heating</text>
+<text x="279.37" y="16.87" font-size="9" text-anchor="start">switch</text>
+</g>
+<text x="137.93" y="43.02" font-size="9" text-anchor="start">peak</text>
+<path d="M145.93 46.02L113.36 67.45" fill="none" stroke="#000000" stroke-width="0.75"/>
+<path d="M109.18 70.19L112.15 65.61L114.57 69.28Z" fill="#000000" stroke="none"/>
+<text x="51.48" y="175.52" font-size="9" text-anchor="start">start</text>
+<text x="252.87" y="219.48" font-size="9" text-anchor="start">low</text>
+<path d="M260.87 222.48L228.3 243.91" fill="none" stroke="#000000" stroke-width="0.75"/>
+<path d="M224.12 246.66L227.09 242.07L229.51 245.75Z" fill="#000000" stroke="none"/>
+<rect x="38.57" y="7.96" width="386.43" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M38.57 258.8v-3.5M38.57 7.96v3.5M137.65 258.8v-3.5M137.65 7.96v3.5M236.74 258.8v-3.5M236.74 7.96v3.5M335.82 258.8v-3.5M335.82 7.96v3.5M38.57 235.31h3.5M425 235.31h-3.5M38.57 184.6h3.5M425 184.6h-3.5M38.57 133.9h3.5M425 133.9h-3.5M38.57 83.19h3.5M425 83.19h-3.5M38.57 32.48h3.5M425 32.48h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M58.39 258.8v-2M58.39 7.96v2M78.2 258.8v-2M78.2 7.96v2M98.02 258.8v-2M98.02 7.96v2M117.84 258.8v-2M117.84 7.96v2M157.47 258.8v-2M157.47 7.96v2M177.29 258.8v-2M177.29 7.96v2M197.11 258.8v-2M197.11 7.96v2M216.92 258.8v-2M216.92 7.96v2M256.56 258.8v-2M256.56 7.96v2M276.37 258.8v-2M276.37 7.96v2M296.19 258.8v-2M296.19 7.96v2M316.01 258.8v-2M316.01 7.96v2M355.64 258.8v-2M355.64 7.96v2M375.46 258.8v-2M375.46 7.96v2M395.27 258.8v-2M395.27 7.96v2M415.09 258.8v-2M415.09 7.96v2M38.57 255.59h2M425 255.59h-2M38.57 245.45h2M425 245.45h-2M38.57 225.17h2M425 225.17h-2M38.57 215.03h2M425 215.03h-2M38.57 204.89h2M425 204.89h-2M38.57 194.75h2M425 194.75h-2M38.57 174.46h2M425 174.46h-2M38.57 164.32h2M425 164.32h-2M38.57 154.18h2M425 154.18h-2M38.57 144.04h2M425 144.04h-2M38.57 123.75h2M425 123.75h-2M38.57 113.61h2M425 113.61h-2M38.57 103.47h2M425 103.47h-2M38.57 93.33h2M425 93.33h-2M38.57 73.05h2M425 73.05h-2M38.57 62.91h2M425 62.91h-2M38.57 52.76h2M425 52.76h-2M38.57 42.62h2M425 42.62h-2M38.57 22.34h2M425 22.34h-2M38.57 12.2h2M425 12.2h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="38.57" y="268.21" font-size="9" text-anchor="middle">0</text>
+<text x="137.65" y="268.21" font-size="9" text-anchor="middle">5</text>
+<text x="236.74" y="268.21" font-size="9" text-anchor="middle">10</text>
+<text x="335.82" y="268.21" font-size="9" text-anchor="middle">15</text>
+<text x="35.07" y="238.27" font-size="9" text-anchor="end">17.5</text>
+<text x="35.07" y="187.56" font-size="9" text-anchor="end">20.0</text>
+<text x="35.07" y="136.85" font-size="9" text-anchor="end">22.5</text>
+<text x="35.07" y="86.15" font-size="9" text-anchor="end">25.0</text>
+<text x="35.07" y="35.44" font-size="9" text-anchor="end">27.5</text>
+<text x="231.78" y="281.1" font-size="10" text-anchor="middle">time</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">temp</text></g>
+</svg>

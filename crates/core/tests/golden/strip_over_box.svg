@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432pt" height="288pt" viewBox="0 0 432 288" font-family="'STIX Two Text'" fill="#000000">
+<desc>box garden.csv x=bed y=yield + strip garden.csv x=bed y=yield jitter</desc>
+<rect width="432" height="288" fill="#ffffff"/>
+<clipPath id="plot0"><rect x="31.91" y="7.96" width="393.09" height="250.85"/></clipPath>
+<g clip-path="url(#plot0)">
+<path d="M68.76 75.74H142.47V33.77H68.76ZM191.6 177.7H265.31V150.45H191.6ZM314.44 228.29H388.15V172.53H314.44Z" fill="#8c8c8c" fill-opacity="0.25" stroke="#8c8c8c" stroke-width="1"/>
+<path d="M105.61 33.77V19.36M87.19 19.36H124.04M105.61 75.74V80.75M87.19 80.75H124.04M228.45 150.45V137.76M210.03 137.76H246.88M228.45 177.7V202.29M210.03 202.29H246.88M351.3 172.53V120.85M332.87 120.85H369.72M351.3 228.29V247.4M332.87 247.4H369.72" fill="none" stroke="#8c8c8c" stroke-width="1"/>
+<path d="M68.76 62.59H142.47M191.6 164.39H265.31M314.44 209.18H388.15" fill="none" stroke="#8c8c8c" stroke-width="2"/>
+<path d="M104.21 174.73a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0ZM227.05 54.44a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0Z" fill="none" stroke="#8c8c8c" stroke-width="0.8"/>
+<path d="M136.31 75.74a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM119.51 74.49a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM120.31 43.79a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM76.88 80.75a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM80.98 19.36a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM79.18 33.77a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM127.83 62.59a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM71.45 19.36a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM99.36 174.73a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0Z" fill="#0072b2" stroke="#ffffff" stroke-width="0.55"/>
+<path d="M259.15 154.68a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM242.35 54.44a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM243.15 162.82a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM199.72 165.96a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM203.82 180.99a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM202.02 176.61a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM250.67 202.29a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM194.29 137.76a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0Z" fill="#e69f00" stroke="#ffffff" stroke-width="0.55"/>
+<path d="M381.99 247.4a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM365.19 235.5a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM365.99 196.03a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM322.56 209.18a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM326.66 120.85a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM324.86 221.09a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0ZM373.51 149.04a2.3 2.3 0 1 0 4.6 0a2.3 2.3 0 1 0 -4.6 0Z" fill="#009e73" stroke="#ffffff" stroke-width="0.55"/>
+</g>
+<rect x="31.91" y="7.96" width="393.09" height="250.85" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M105.61 258.8v-3.5M105.61 7.96v3.5M228.45 258.8v-3.5M228.45 7.96v3.5M351.3 258.8v-3.5M351.3 7.96v3.5M31.91 224.22h3.5M425 224.22h-3.5M31.91 161.57h3.5M425 161.57h-3.5M31.91 98.92h3.5M425 98.92h-3.5M31.91 36.27h3.5M425 36.27h-3.5" fill="none" stroke="#000000" stroke-width="0.8"/>
+<path d="M31.91 249.28h2M425 249.28h-2M31.91 236.75h2M425 236.75h-2M31.91 211.69h2M425 211.69h-2M31.91 199.16h2M425 199.16h-2M31.91 186.63h2M425 186.63h-2M31.91 174.1h2M425 174.1h-2M31.91 149.04h2M425 149.04h-2M31.91 136.51h2M425 136.51h-2M31.91 123.98h2M425 123.98h-2M31.91 111.45h2M425 111.45h-2M31.91 86.39h2M425 86.39h-2M31.91 73.86h2M425 73.86h-2M31.91 61.33h2M425 61.33h-2M31.91 48.8h2M425 48.8h-2M31.91 23.74h2M425 23.74h-2M31.91 11.21h2M425 11.21h-2" fill="none" stroke="#000000" stroke-width="0.6"/>
+<text x="105.61" y="268.21" font-size="9" text-anchor="middle">Shade</text>
+<text x="228.45" y="268.21" font-size="9" text-anchor="middle">Part sun</text>
+<text x="351.3" y="268.21" font-size="9" text-anchor="middle">Full sun</text>
+<text x="28.41" y="227.18" font-size="9" text-anchor="end">30</text>
+<text x="28.41" y="164.53" font-size="9" text-anchor="end">40</text>
+<text x="28.41" y="101.88" font-size="9" text-anchor="end">50</text>
+<text x="28.41" y="39.23" font-size="9" text-anchor="end">60</text>
+<text x="228.45" y="281.1" font-size="10" text-anchor="middle">bed</text>
+<g transform="translate(11.9 133.38) rotate(-90)">
+<text x="0" y="0" font-size="10" text-anchor="middle">yield</text></g>
+</svg>
